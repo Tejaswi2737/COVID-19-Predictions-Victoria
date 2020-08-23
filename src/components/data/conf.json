@@ -1,0 +1,858 @@
+[
+  {
+    "Date": "1/22/20",
+    "Victoria": 0
+  },
+  {
+    "Date": "1/23/20",
+    "Victoria": 0
+  },
+  {
+    "Date": "1/24/20",
+    "Victoria": 0
+  },
+  {
+    "Date": "1/25/20",
+    "Victoria": 0
+  },
+  {
+    "Date": "1/26/20",
+    "Victoria": 1
+  },
+  {
+    "Date": "1/27/20",
+    "Victoria": 1
+  },
+  {
+    "Date": "1/28/20",
+    "Victoria": 1
+  },
+  {
+    "Date": "1/29/20",
+    "Victoria": 1
+  },
+  {
+    "Date": "1/30/20",
+    "Victoria": 2
+  },
+  {
+    "Date": "1/31/20",
+    "Victoria": 3
+  },
+  {
+    "Date": "2/1/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/2/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/3/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/4/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/5/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/6/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/7/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/8/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/9/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/10/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/11/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/12/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/13/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/14/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/15/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/16/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/17/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/18/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/19/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/20/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/21/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/22/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/23/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/24/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/25/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/26/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/27/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/28/20",
+    "Victoria": 4
+  },
+  {
+    "Date": "2/29/20",
+    "Victoria": 7
+  },
+  {
+    "Date": "3/1/20",
+    "Victoria": 7
+  },
+  {
+    "Date": "3/2/20",
+    "Victoria": 9
+  },
+  {
+    "Date": "3/3/20",
+    "Victoria": 9
+  },
+  {
+    "Date": "3/4/20",
+    "Victoria": 10
+  },
+  {
+    "Date": "3/5/20",
+    "Victoria": 10
+  },
+  {
+    "Date": "3/6/20",
+    "Victoria": 10
+  },
+  {
+    "Date": "3/7/20",
+    "Victoria": 11
+  },
+  {
+    "Date": "3/8/20",
+    "Victoria": 11
+  },
+  {
+    "Date": "3/9/20",
+    "Victoria": 15
+  },
+  {
+    "Date": "3/10/20",
+    "Victoria": 18
+  },
+  {
+    "Date": "3/11/20",
+    "Victoria": 21
+  },
+  {
+    "Date": "3/12/20",
+    "Victoria": 21
+  },
+  {
+    "Date": "3/13/20",
+    "Victoria": 36
+  },
+  {
+    "Date": "3/14/20",
+    "Victoria": 49
+  },
+  {
+    "Date": "3/15/20",
+    "Victoria": 57
+  },
+  {
+    "Date": "3/16/20",
+    "Victoria": 71
+  },
+  {
+    "Date": "3/17/20",
+    "Victoria": 94
+  },
+  {
+    "Date": "3/18/20",
+    "Victoria": 121
+  },
+  {
+    "Date": "3/19/20",
+    "Victoria": 121
+  },
+  {
+    "Date": "3/20/20",
+    "Victoria": 121
+  },
+  {
+    "Date": "3/21/20",
+    "Victoria": 229
+  },
+  {
+    "Date": "3/22/20",
+    "Victoria": 355
+  },
+  {
+    "Date": "3/23/20",
+    "Victoria": 355
+  },
+  {
+    "Date": "3/24/20",
+    "Victoria": 411
+  },
+  {
+    "Date": "3/25/20",
+    "Victoria": 466
+  },
+  {
+    "Date": "3/26/20",
+    "Victoria": 520
+  },
+  {
+    "Date": "3/27/20",
+    "Victoria": 574
+  },
+  {
+    "Date": "3/28/20",
+    "Victoria": 685
+  },
+  {
+    "Date": "3/29/20",
+    "Victoria": 769
+  },
+  {
+    "Date": "3/30/20",
+    "Victoria": 821
+  },
+  {
+    "Date": "3/31/20",
+    "Victoria": 917
+  },
+  {
+    "Date": "4/1/20",
+    "Victoria": 968
+  },
+  {
+    "Date": "4/2/20",
+    "Victoria": 1036
+  },
+  {
+    "Date": "4/3/20",
+    "Victoria": 1085
+  },
+  {
+    "Date": "4/4/20",
+    "Victoria": 1115
+  },
+  {
+    "Date": "4/5/20",
+    "Victoria": 1135
+  },
+  {
+    "Date": "4/6/20",
+    "Victoria": 1158
+  },
+  {
+    "Date": "4/7/20",
+    "Victoria": 1191
+  },
+  {
+    "Date": "4/8/20",
+    "Victoria": 1212
+  },
+  {
+    "Date": "4/9/20",
+    "Victoria": 1228
+  },
+  {
+    "Date": "4/10/20",
+    "Victoria": 1241
+  },
+  {
+    "Date": "4/11/20",
+    "Victoria": 1265
+  },
+  {
+    "Date": "4/12/20",
+    "Victoria": 1268
+  },
+  {
+    "Date": "4/13/20",
+    "Victoria": 1281
+  },
+  {
+    "Date": "4/14/20",
+    "Victoria": 1291
+  },
+  {
+    "Date": "4/15/20",
+    "Victoria": 1299
+  },
+  {
+    "Date": "4/16/20",
+    "Victoria": 1299
+  },
+  {
+    "Date": "4/17/20",
+    "Victoria": 1302
+  },
+  {
+    "Date": "4/18/20",
+    "Victoria": 1319
+  },
+  {
+    "Date": "4/19/20",
+    "Victoria": 1328
+  },
+  {
+    "Date": "4/20/20",
+    "Victoria": 1329
+  },
+  {
+    "Date": "4/21/20",
+    "Victoria": 1336
+  },
+  {
+    "Date": "4/22/20",
+    "Victoria": 1336
+  },
+  {
+    "Date": "4/23/20",
+    "Victoria": 1337
+  },
+  {
+    "Date": "4/24/20",
+    "Victoria": 1343
+  },
+  {
+    "Date": "4/25/20",
+    "Victoria": 1346
+  },
+  {
+    "Date": "4/26/20",
+    "Victoria": 1349
+  },
+  {
+    "Date": "4/27/20",
+    "Victoria": 1349
+  },
+  {
+    "Date": "4/28/20",
+    "Victoria": 1354
+  },
+  {
+    "Date": "4/29/20",
+    "Victoria": 1361
+  },
+  {
+    "Date": "4/30/20",
+    "Victoria": 1364
+  },
+  {
+    "Date": "5/1/20",
+    "Victoria": 1371
+  },
+  {
+    "Date": "5/2/20",
+    "Victoria": 1384
+  },
+  {
+    "Date": "5/3/20",
+    "Victoria": 1406
+  },
+  {
+    "Date": "5/4/20",
+    "Victoria": 1423
+  },
+  {
+    "Date": "5/5/20",
+    "Victoria": 1440
+  },
+  {
+    "Date": "5/6/20",
+    "Victoria": 1454
+  },
+  {
+    "Date": "5/7/20",
+    "Victoria": 1467
+  },
+  {
+    "Date": "5/8/20",
+    "Victoria": 1468
+  },
+  {
+    "Date": "5/9/20",
+    "Victoria": 1487
+  },
+  {
+    "Date": "5/10/20",
+    "Victoria": 1496
+  },
+  {
+    "Date": "5/11/20",
+    "Victoria": 1511
+  },
+  {
+    "Date": "5/12/20",
+    "Victoria": 1514
+  },
+  {
+    "Date": "5/13/20",
+    "Victoria": 1521
+  },
+  {
+    "Date": "5/14/20",
+    "Victoria": 1540
+  },
+  {
+    "Date": "5/15/20",
+    "Victoria": 1551
+  },
+  {
+    "Date": "5/16/20",
+    "Victoria": 1558
+  },
+  {
+    "Date": "5/17/20",
+    "Victoria": 1564
+  },
+  {
+    "Date": "5/18/20",
+    "Victoria": 1573
+  },
+  {
+    "Date": "5/19/20",
+    "Victoria": 1573
+  },
+  {
+    "Date": "5/20/20",
+    "Victoria": 1581
+  },
+  {
+    "Date": "5/21/20",
+    "Victoria": 1593
+  },
+  {
+    "Date": "5/22/20",
+    "Victoria": 1593
+  },
+  {
+    "Date": "5/23/20",
+    "Victoria": 1603
+  },
+  {
+    "Date": "5/24/20",
+    "Victoria": 1605
+  },
+  {
+    "Date": "5/25/20",
+    "Victoria": 1610
+  },
+  {
+    "Date": "5/26/20",
+    "Victoria": 1618
+  },
+  {
+    "Date": "5/27/20",
+    "Victoria": 1628
+  },
+  {
+    "Date": "5/28/20",
+    "Victoria": 1634
+  },
+  {
+    "Date": "5/29/20",
+    "Victoria": 1645
+  },
+  {
+    "Date": "5/30/20",
+    "Victoria": 1649
+  },
+  {
+    "Date": "5/31/20",
+    "Victoria": 1653
+  },
+  {
+    "Date": "6/1/20",
+    "Victoria": 1663
+  },
+  {
+    "Date": "6/2/20",
+    "Victoria": 1670
+  },
+  {
+    "Date": "6/3/20",
+    "Victoria": 1678
+  },
+  {
+    "Date": "6/4/20",
+    "Victoria": 1681
+  },
+  {
+    "Date": "6/5/20",
+    "Victoria": 1681
+  },
+  {
+    "Date": "6/6/20",
+    "Victoria": 1685
+  },
+  {
+    "Date": "6/7/20",
+    "Victoria": 1687
+  },
+  {
+    "Date": "6/8/20",
+    "Victoria": 1687
+  },
+  {
+    "Date": "6/9/20",
+    "Victoria": 1691
+  },
+  {
+    "Date": "6/10/20",
+    "Victoria": 1699
+  },
+  {
+    "Date": "6/11/20",
+    "Victoria": 1703
+  },
+  {
+    "Date": "6/12/20",
+    "Victoria": 1703
+  },
+  {
+    "Date": "6/13/20",
+    "Victoria": 1720
+  },
+  {
+    "Date": "6/14/20",
+    "Victoria": 1732
+  },
+  {
+    "Date": "6/15/20",
+    "Victoria": 1741
+  },
+  {
+    "Date": "6/16/20",
+    "Victoria": 1762
+  },
+  {
+    "Date": "6/17/20",
+    "Victoria": 1780
+  },
+  {
+    "Date": "6/18/20",
+    "Victoria": 1792
+  },
+  {
+    "Date": "6/19/20",
+    "Victoria": 1792
+  },
+  {
+    "Date": "6/20/20",
+    "Victoria": 1836
+  },
+  {
+    "Date": "6/21/20",
+    "Victoria": 1847
+  },
+  {
+    "Date": "6/22/20",
+    "Victoria": 1864
+  },
+  {
+    "Date": "6/23/20",
+    "Victoria": 1884
+  },
+  {
+    "Date": "6/24/20",
+    "Victoria": 1917
+  },
+  {
+    "Date": "6/25/20",
+    "Victoria": 1947
+  },
+  {
+    "Date": "6/26/20",
+    "Victoria": 1947
+  },
+  {
+    "Date": "6/27/20",
+    "Victoria": 2028
+  },
+  {
+    "Date": "6/28/20",
+    "Victoria": 2099
+  },
+  {
+    "Date": "6/29/20",
+    "Victoria": 2159
+  },
+  {
+    "Date": "6/30/20",
+    "Victoria": 2231
+  },
+  {
+    "Date": "7/1/20",
+    "Victoria": 2303
+  },
+  {
+    "Date": "7/2/20",
+    "Victoria": 2368
+  },
+  {
+    "Date": "7/3/20",
+    "Victoria": 2368
+  },
+  {
+    "Date": "7/4/20",
+    "Victoria": 2536
+  },
+  {
+    "Date": "7/5/20",
+    "Victoria": 2660
+  },
+  {
+    "Date": "7/6/20",
+    "Victoria": 2824
+  },
+  {
+    "Date": "7/7/20",
+    "Victoria": 2942
+  },
+  {
+    "Date": "7/8/20",
+    "Victoria": 3098
+  },
+  {
+    "Date": "7/9/20",
+    "Victoria": 3397
+  },
+  {
+    "Date": "7/10/20",
+    "Victoria": 3560
+  },
+  {
+    "Date": "7/11/20",
+    "Victoria": 3799
+  },
+  {
+    "Date": "7/12/20",
+    "Victoria": 3967
+  },
+  {
+    "Date": "7/13/20",
+    "Victoria": 4224
+  },
+  {
+    "Date": "7/14/20",
+    "Victoria": 4448
+  },
+  {
+    "Date": "7/15/20",
+    "Victoria": 4750
+  },
+  {
+    "Date": "7/16/20",
+    "Victoria": 5165
+  },
+  {
+    "Date": "7/17/20",
+    "Victoria": 5353
+  },
+  {
+    "Date": "7/18/20",
+    "Victoria": 5696
+  },
+  {
+    "Date": "7/19/20",
+    "Victoria": 5942
+  },
+  {
+    "Date": "7/20/20",
+    "Victoria": 6289
+  },
+  {
+    "Date": "7/21/20",
+    "Victoria": 6739
+  },
+  {
+    "Date": "7/22/20",
+    "Victoria": 7125
+  },
+  {
+    "Date": "7/23/20",
+    "Victoria": 7405
+  },
+  {
+    "Date": "7/24/20",
+    "Victoria": 7744
+  },
+  {
+    "Date": "7/25/20",
+    "Victoria": 8181
+  },
+  {
+    "Date": "7/26/20",
+    "Victoria": 8696
+  },
+  {
+    "Date": "7/27/20",
+    "Victoria": 9049
+  },
+  {
+    "Date": "7/28/20",
+    "Victoria": 9304
+  },
+  {
+    "Date": "7/29/20",
+    "Victoria": 9998
+  },
+  {
+    "Date": "7/30/20",
+    "Victoria": 10577
+  },
+  {
+    "Date": "7/31/20",
+    "Victoria": 10931
+  },
+  {
+    "Date": "8/1/20",
+    "Victoria": 11557
+  },
+  {
+    "Date": "8/2/20",
+    "Victoria": 11937
+  },
+  {
+    "Date": "8/3/20",
+    "Victoria": 12335
+  },
+  {
+    "Date": "8/4/20",
+    "Victoria": 13035
+  },
+  {
+    "Date": "8/5/20",
+    "Victoria": 13469
+  },
+  {
+    "Date": "8/6/20",
+    "Victoria": 13867
+  },
+  {
+    "Date": "8/7/20",
+    "Victoria": 14283
+  },
+  {
+    "Date": "8/8/20",
+    "Victoria": 14659
+  },
+  {
+    "Date": "8/9/20",
+    "Victoria": 14957
+  },
+  {
+    "Date": "8/10/20",
+    "Victoria": 15251
+  },
+  {
+    "Date": "8/11/20",
+    "Victoria": 15646
+  },
+  {
+    "Date": "8/12/20",
+    "Victoria": 15863
+  },
+  {
+    "Date": "8/13/20",
+    "Victoria": 16234
+  },
+  {
+    "Date": "8/14/20",
+    "Victoria": 16517
+  },
+  {
+    "Date": "8/15/20",
+    "Victoria": 16764
+  },
+  {
+    "Date": "8/16/20",
+    "Victoria": 17027
+  },
+  {
+    "Date": "8/17/20",
+    "Victoria": 17238
+  },
+  {
+    "Date": "8/18/20",
+    "Victoria": 17446
+  },
+  {
+    "Date": "8/19/20",
+    "Victoria": 17683
+  },
+  {
+    "Date": "8/20/20",
+    "Victoria": 17852
+  },
+  {
+    "Date": "8/21/20",
+    "Victoria": 18029
+  },
+  {
+    "Date": "8/22/20",
+    "Victoria": 18231
+  }
+ ]

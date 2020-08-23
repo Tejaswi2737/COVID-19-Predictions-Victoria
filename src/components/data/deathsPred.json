@@ -1,0 +1,1682 @@
+[
+  {
+    "Day": 0,
+    "Date": "29-Apr",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 1,
+    "Date": "30-Apr",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 2,
+    "Date": "1-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 3,
+    "Date": "2-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 4,
+    "Date": "3-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 5,
+    "Date": "4-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 6,
+    "Date": "5-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 7,
+    "Date": "6-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 8,
+    "Date": "7-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 9,
+    "Date": "8-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 10,
+    "Date": "9-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 11,
+    "Date": "10-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 12,
+    "Date": "11-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 13,
+    "Date": "12-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 14,
+    "Date": "13-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 15,
+    "Date": "14-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 16,
+    "Date": "15-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 17,
+    "Date": "16-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 18,
+    "Date": "17-May",
+    "Victoria": 18,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 19,
+    "Date": "18-May",
+    "Victoria": 19,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 20,
+    "Date": "19-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 21,
+    "Date": "20-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 22,
+    "Date": "21-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 23,
+    "Date": "22-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 18
+  },
+  {
+    "Day": 24,
+    "Date": "23-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 1,
+    "Deaths": 19
+  },
+  {
+    "Day": 25,
+    "Date": "24-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 26,
+    "Date": "25-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 27,
+    "Date": "26-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 28,
+    "Date": "27-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 29,
+    "Date": "28-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 30,
+    "Date": "29-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 31,
+    "Date": "30-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 32,
+    "Date": "31-May",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 33,
+    "Date": "1-Jun",
+    "Victoria": 19,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 34,
+    "Date": "2-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 35,
+    "Date": "3-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 36,
+    "Date": "4-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 37,
+    "Date": "5-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 38,
+    "Date": "6-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 39,
+    "Date": "7-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 40,
+    "Date": "8-Jun",
+    "Victoria": 20,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 41,
+    "Date": "9-Jun",
+    "Victoria": 21,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 42,
+    "Date": "10-Jun",
+    "Victoria": 21,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 43,
+    "Date": "11-Jun",
+    "Victoria": 21,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 44,
+    "Date": "12-Jun",
+    "Victoria": 21,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 45,
+    "Date": "13-Jun",
+    "Victoria": 22,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 46,
+    "Date": "14-Jun",
+    "Victoria": 22,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 47,
+    "Date": "15-Jun",
+    "Victoria": 22,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 48,
+    "Date": "16-Jun",
+    "Victoria": 22,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 49,
+    "Date": "17-Jun",
+    "Victoria": 23,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 50,
+    "Date": "18-Jun",
+    "Victoria": 23,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 51,
+    "Date": "19-Jun",
+    "Victoria": 24,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 52,
+    "Date": "20-Jun",
+    "Victoria": 24,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 53,
+    "Date": "21-Jun",
+    "Victoria": 24,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 54,
+    "Date": "22-Jun",
+    "Victoria": 25,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 19
+  },
+  {
+    "Day": 55,
+    "Date": "23-Jun",
+    "Victoria": 25,
+    "NewDeathsPred": 0,
+    "NewDeaths": 1,
+    "Deaths": 20
+  },
+  {
+    "Day": 56,
+    "Date": "24-Jun",
+    "Victoria": 26,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 57,
+    "Date": "25-Jun",
+    "Victoria": 27,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 58,
+    "Date": "26-Jun",
+    "Victoria": 27,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 59,
+    "Date": "27-Jun",
+    "Victoria": 28,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 60,
+    "Date": "28-Jun",
+    "Victoria": 29,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 61,
+    "Date": "29-Jun",
+    "Victoria": 29,
+    "NewDeathsPred": 0,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 62,
+    "Date": "30-Jun",
+    "Victoria": 30,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 63,
+    "Date": "1-Jul",
+    "Victoria": 31,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 64,
+    "Date": "2-Jul",
+    "Victoria": 32,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 65,
+    "Date": "3-Jul",
+    "Victoria": 33,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 66,
+    "Date": "4-Jul",
+    "Victoria": 34,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 20
+  },
+  {
+    "Day": 67,
+    "Date": "5-Jul",
+    "Victoria": 36,
+    "NewDeathsPred": 2,
+    "NewDeaths": 2,
+    "Deaths": 22
+  },
+  {
+    "Day": 68,
+    "Date": "6-Jul",
+    "Victoria": 37,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 22
+  },
+  {
+    "Day": 69,
+    "Date": "7-Jul",
+    "Victoria": 38,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 22
+  },
+  {
+    "Day": 70,
+    "Date": "8-Jul",
+    "Victoria": 40,
+    "NewDeathsPred": 2,
+    "NewDeaths": 0,
+    "Deaths": 22
+  },
+  {
+    "Day": 71,
+    "Date": "9-Jul",
+    "Victoria": 41,
+    "NewDeathsPred": 1,
+    "NewDeaths": 0,
+    "Deaths": 22
+  },
+  {
+    "Day": 72,
+    "Date": "10-Jul",
+    "Victoria": 43,
+    "NewDeathsPred": 2,
+    "NewDeaths": 1,
+    "Deaths": 23
+  },
+  {
+    "Day": 73,
+    "Date": "11-Jul",
+    "Victoria": 45,
+    "NewDeathsPred": 2,
+    "NewDeaths": 1,
+    "Deaths": 24
+  },
+  {
+    "Day": 74,
+    "Date": "12-Jul",
+    "Victoria": 47,
+    "NewDeathsPred": 2,
+    "NewDeaths": 0,
+    "Deaths": 24
+  },
+  {
+    "Day": 75,
+    "Date": "13-Jul",
+    "Victoria": 49,
+    "NewDeathsPred": 2,
+    "NewDeaths": 0,
+    "Deaths": 24
+  },
+  {
+    "Day": 76,
+    "Date": "14-Jul",
+    "Victoria": 51,
+    "NewDeathsPred": 2,
+    "NewDeaths": 3,
+    "Deaths": 27
+  },
+  {
+    "Day": 77,
+    "Date": "15-Jul",
+    "Victoria": 54,
+    "NewDeathsPred": 3,
+    "NewDeaths": 2,
+    "Deaths": 29
+  },
+  {
+    "Day": 78,
+    "Date": "16-Jul",
+    "Victoria": 57,
+    "NewDeathsPred": 3,
+    "NewDeaths": 3,
+    "Deaths": 32
+  },
+  {
+    "Day": 79,
+    "Date": "17-Jul",
+    "Victoria": 59,
+    "NewDeathsPred": 2,
+    "NewDeaths": 2,
+    "Deaths": 34
+  },
+  {
+    "Day": 80,
+    "Date": "18-Jul",
+    "Victoria": 62,
+    "NewDeathsPred": 3,
+    "NewDeaths": 4,
+    "Deaths": 38
+  },
+  {
+    "Day": 81,
+    "Date": "19-Jul",
+    "Victoria": 66,
+    "NewDeathsPred": 4,
+    "NewDeaths": 1,
+    "Deaths": 39
+  },
+  {
+    "Day": 82,
+    "Date": "20-Jul",
+    "Victoria": 69,
+    "NewDeathsPred": 3,
+    "NewDeaths": 3,
+    "Deaths": 42
+  },
+  {
+    "Day": 83,
+    "Date": "21-Jul",
+    "Victoria": 73,
+    "NewDeathsPred": 4,
+    "NewDeaths": 2,
+    "Deaths": 44
+  },
+  {
+    "Day": 84,
+    "Date": "22-Jul",
+    "Victoria": 77,
+    "NewDeathsPred": 4,
+    "NewDeaths": 5,
+    "Deaths": 49
+  },
+  {
+    "Day": 85,
+    "Date": "23-Jul",
+    "Victoria": 81,
+    "NewDeathsPred": 4,
+    "NewDeaths": 6,
+    "Deaths": 55
+  },
+  {
+    "Day": 86,
+    "Date": "24-Jul",
+    "Victoria": 85,
+    "NewDeathsPred": 4,
+    "NewDeaths": 6,
+    "Deaths": 61
+  },
+  {
+    "Day": 87,
+    "Date": "25-Jul",
+    "Victoria": 90,
+    "NewDeathsPred": 5,
+    "NewDeaths": 10,
+    "Deaths": 71
+  },
+  {
+    "Day": 88,
+    "Date": "26-Jul",
+    "Victoria": 95,
+    "NewDeathsPred": 5,
+    "NewDeaths": 6,
+    "Deaths": 77
+  },
+  {
+    "Day": 89,
+    "Date": "27-Jul",
+    "Victoria": 101,
+    "NewDeathsPred": 6,
+    "NewDeaths": 6,
+    "Deaths": 83
+  },
+  {
+    "Day": 90,
+    "Date": "28-Jul",
+    "Victoria": 107,
+    "NewDeathsPred": 6,
+    "NewDeaths": 9,
+    "Deaths": 92
+  },
+  {
+    "Day": 91,
+    "Date": "29-Jul",
+    "Victoria": 113,
+    "NewDeathsPred": 6,
+    "NewDeaths": 13,
+    "Deaths": 105
+  },
+  {
+    "Day": 92,
+    "Date": "30-Jul",
+    "Victoria": 119,
+    "NewDeathsPred": 6,
+    "NewDeaths": 7,
+    "Deaths": 112
+  },
+  {
+    "Day": 93,
+    "Date": "31-Jul",
+    "Victoria": 126,
+    "NewDeathsPred": 7,
+    "NewDeaths": 4,
+    "Deaths": 116
+  },
+  {
+    "Day": 94,
+    "Date": "1-Aug",
+    "Victoria": 134,
+    "NewDeathsPred": 8,
+    "NewDeaths": 7,
+    "Deaths": 123
+  },
+  {
+    "Day": 95,
+    "Date": "2-Aug",
+    "Victoria": 142,
+    "NewDeathsPred": 8,
+    "NewDeaths": 13,
+    "Deaths": 136
+  },
+  {
+    "Day": 96,
+    "Date": "3-Aug",
+    "Victoria": 150,
+    "NewDeathsPred": 8,
+    "NewDeaths": 11,
+    "Deaths": 147
+  },
+  {
+    "Day": 97,
+    "Date": "4-Aug",
+    "Victoria": 159,
+    "NewDeathsPred": 9,
+    "NewDeaths": 15,
+    "Deaths": 162
+  },
+  {
+    "Day": 98,
+    "Date": "5-Aug",
+    "Victoria": 168,
+    "NewDeathsPred": 9,
+    "NewDeaths": 8,
+    "Deaths": 170
+  },
+  {
+    "Day": 99,
+    "Date": "6-Aug",
+    "Victoria": 178,
+    "NewDeathsPred": 10,
+    "NewDeaths": 11,
+    "Deaths": 181
+  },
+  {
+    "Day": 100,
+    "Date": "7-Aug",
+    "Victoria": 188,
+    "NewDeathsPred": 10,
+    "NewDeaths": 12,
+    "Deaths": 193
+  },
+  {
+    "Day": 101,
+    "Date": "8-Aug",
+    "Victoria": 199,
+    "NewDeathsPred": 11,
+    "NewDeaths": 17,
+    "Deaths": 210
+  },
+  {
+    "Day": 102,
+    "Date": "9-Aug",
+    "Victoria": 211,
+    "NewDeathsPred": 12,
+    "NewDeaths": 18,
+    "Deaths": 228
+  },
+  {
+    "Day": 103,
+    "Date": "10-Aug",
+    "Victoria": 223,
+    "NewDeathsPred": 12,
+    "NewDeaths": 18,
+    "Deaths": 246
+  },
+  {
+    "Day": 104,
+    "Date": "11-Aug",
+    "Victoria": 236,
+    "NewDeathsPred": 13,
+    "NewDeaths": 21,
+    "Deaths": 267
+  },
+  {
+    "Day": 105,
+    "Date": "12-Aug",
+    "Victoria": 249,
+    "NewDeathsPred": 13,
+    "NewDeaths": 8,
+    "Deaths": 275
+  },
+  {
+    "Day": 106,
+    "Date": "13-Aug",
+    "Victoria": 263,
+    "NewDeathsPred": 14,
+    "NewDeaths": 14,
+    "Deaths": 289
+  },
+  {
+    "Day": 107,
+    "Date": "14-Aug",
+    "Victoria": 277,
+    "NewDeathsPred": 14,
+    "NewDeaths": 4,
+    "Deaths": 293
+  },
+  {
+    "Day": 108,
+    "Date": "15-Aug",
+    "Victoria": 293,
+    "NewDeathsPred": 16,
+    "NewDeaths": 16,
+    "Deaths": 309
+  },
+  {
+    "Day": 109,
+    "Date": "16-Aug",
+    "Victoria": 308,
+    "NewDeathsPred": 15,
+    "NewDeaths": 25,
+    "Deaths": 334
+  },
+  {
+    "Day": 110,
+    "Date": "17-Aug",
+    "Victoria": 325,
+    "NewDeathsPred": 17,
+    "NewDeaths": 17,
+    "Deaths": 351
+  },
+  {
+    "Day": 111,
+    "Date": "18-Aug",
+    "Victoria": 342,
+    "NewDeathsPred": 17,
+    "NewDeaths": 12,
+    "Deaths": 363
+  },
+  {
+    "Day": 112,
+    "Date": "19-Aug",
+    "Victoria": 359,
+    "NewDeathsPred": 17,
+    "NewDeaths": 13,
+    "Deaths": 376
+  },
+  {
+    "Day": 113,
+    "Date": "20-Aug",
+    "Victoria": 377,
+    "NewDeathsPred": 18,
+    "NewDeaths": 9,
+    "Deaths": 385
+  },
+  {
+    "Day": 114,
+    "Date": "21-Aug",
+    "Victoria": 396,
+    "NewDeathsPred": 19,
+    "NewDeaths": 13,
+    "Deaths": 398
+  },
+  {
+    "Day": 115,
+    "Date": "22-Aug",
+    "Victoria": 415,
+    "NewDeathsPred": 19,
+    "NewDeaths": 17,
+    "Deaths": 415
+  },
+  {
+    "Day": 116,
+    "Date": "23-Aug",
+    "Victoria": 434,
+    "NewDeathsPred": 19,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 117,
+    "Date": "24-Aug",
+    "Victoria": 454,
+    "NewDeathsPred": 20,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 118,
+    "Date": "25-Aug",
+    "Victoria": 475,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 119,
+    "Date": "26-Aug",
+    "Victoria": 495,
+    "NewDeathsPred": 20,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 120,
+    "Date": "27-Aug",
+    "Victoria": 517,
+    "NewDeathsPred": 22,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 121,
+    "Date": "28-Aug",
+    "Victoria": 538,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 122,
+    "Date": "29-Aug",
+    "Victoria": 559,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 123,
+    "Date": "30-Aug",
+    "Victoria": 581,
+    "NewDeathsPred": 22,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 124,
+    "Date": "31-Aug",
+    "Victoria": 603,
+    "NewDeathsPred": 22,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 125,
+    "Date": "1-Sep",
+    "Victoria": 624,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 126,
+    "Date": "2-Sep",
+    "Victoria": 646,
+    "NewDeathsPred": 22,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 127,
+    "Date": "3-Sep",
+    "Victoria": 668,
+    "NewDeathsPred": 22,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 128,
+    "Date": "4-Sep",
+    "Victoria": 689,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 129,
+    "Date": "5-Sep",
+    "Victoria": 711,
+    "NewDeathsPred": 22,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 130,
+    "Date": "6-Sep",
+    "Victoria": 732,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 131,
+    "Date": "7-Sep",
+    "Victoria": 752,
+    "NewDeathsPred": 20,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 132,
+    "Date": "8-Sep",
+    "Victoria": 773,
+    "NewDeathsPred": 21,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 133,
+    "Date": "9-Sep",
+    "Victoria": 793,
+    "NewDeathsPred": 20,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 134,
+    "Date": "10-Sep",
+    "Victoria": 812,
+    "NewDeathsPred": 19,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 135,
+    "Date": "11-Sep",
+    "Victoria": 831,
+    "NewDeathsPred": 19,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 136,
+    "Date": "12-Sep",
+    "Victoria": 850,
+    "NewDeathsPred": 19,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 137,
+    "Date": "13-Sep",
+    "Victoria": 868,
+    "NewDeathsPred": 18,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 138,
+    "Date": "14-Sep",
+    "Victoria": 885,
+    "NewDeathsPred": 17,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 139,
+    "Date": "15-Sep",
+    "Victoria": 902,
+    "NewDeathsPred": 17,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 140,
+    "Date": "16-Sep",
+    "Victoria": 919,
+    "NewDeathsPred": 17,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 141,
+    "Date": "17-Sep",
+    "Victoria": 934,
+    "NewDeathsPred": 15,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 142,
+    "Date": "18-Sep",
+    "Victoria": 950,
+    "NewDeathsPred": 16,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 143,
+    "Date": "19-Sep",
+    "Victoria": 964,
+    "NewDeathsPred": 14,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 144,
+    "Date": "20-Sep",
+    "Victoria": 978,
+    "NewDeathsPred": 14,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 145,
+    "Date": "21-Sep",
+    "Victoria": 991,
+    "NewDeathsPred": 13,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 146,
+    "Date": "22-Sep",
+    "Victoria": 1004,
+    "NewDeathsPred": 13,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 147,
+    "Date": "23-Sep",
+    "Victoria": 1016,
+    "NewDeathsPred": 12,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 148,
+    "Date": "24-Sep",
+    "Victoria": 1028,
+    "NewDeathsPred": 12,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 149,
+    "Date": "25-Sep",
+    "Victoria": 1039,
+    "NewDeathsPred": 11,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 150,
+    "Date": "26-Sep",
+    "Victoria": 1049,
+    "NewDeathsPred": 10,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 151,
+    "Date": "27-Sep",
+    "Victoria": 1059,
+    "NewDeathsPred": 10,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 152,
+    "Date": "28-Sep",
+    "Victoria": 1068,
+    "NewDeathsPred": 9,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 153,
+    "Date": "29-Sep",
+    "Victoria": 1077,
+    "NewDeathsPred": 9,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 154,
+    "Date": "30-Sep",
+    "Victoria": 1085,
+    "NewDeathsPred": 8,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 155,
+    "Date": "1-Oct",
+    "Victoria": 1093,
+    "NewDeathsPred": 8,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 156,
+    "Date": "2-Oct",
+    "Victoria": 1101,
+    "NewDeathsPred": 8,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 157,
+    "Date": "3-Oct",
+    "Victoria": 1108,
+    "NewDeathsPred": 7,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 158,
+    "Date": "4-Oct",
+    "Victoria": 1114,
+    "NewDeathsPred": 6,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 159,
+    "Date": "5-Oct",
+    "Victoria": 1120,
+    "NewDeathsPred": 6,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 160,
+    "Date": "6-Oct",
+    "Victoria": 1126,
+    "NewDeathsPred": 6,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 161,
+    "Date": "7-Oct",
+    "Victoria": 1132,
+    "NewDeathsPred": 6,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 162,
+    "Date": "8-Oct",
+    "Victoria": 1137,
+    "NewDeathsPred": 5,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 163,
+    "Date": "9-Oct",
+    "Victoria": 1142,
+    "NewDeathsPred": 5,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 164,
+    "Date": "10-Oct",
+    "Victoria": 1146,
+    "NewDeathsPred": 4,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 165,
+    "Date": "11-Oct",
+    "Victoria": 1150,
+    "NewDeathsPred": 4,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 166,
+    "Date": "12-Oct",
+    "Victoria": 1154,
+    "NewDeathsPred": 4,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 167,
+    "Date": "13-Oct",
+    "Victoria": 1158,
+    "NewDeathsPred": 4,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 168,
+    "Date": "14-Oct",
+    "Victoria": 1161,
+    "NewDeathsPred": 3,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 169,
+    "Date": "15-Oct",
+    "Victoria": 1165,
+    "NewDeathsPred": 4,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 170,
+    "Date": "16-Oct",
+    "Victoria": 1168,
+    "NewDeathsPred": 3,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 171,
+    "Date": "17-Oct",
+    "Victoria": 1170,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 172,
+    "Date": "18-Oct",
+    "Victoria": 1173,
+    "NewDeathsPred": 3,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 173,
+    "Date": "19-Oct",
+    "Victoria": 1176,
+    "NewDeathsPred": 3,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 174,
+    "Date": "20-Oct",
+    "Victoria": 1178,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 175,
+    "Date": "21-Oct",
+    "Victoria": 1180,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 176,
+    "Date": "22-Oct",
+    "Victoria": 1182,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 177,
+    "Date": "23-Oct",
+    "Victoria": 1184,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 178,
+    "Date": "24-Oct",
+    "Victoria": 1186,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 179,
+    "Date": "25-Oct",
+    "Victoria": 1187,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 180,
+    "Date": "26-Oct",
+    "Victoria": 1189,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 181,
+    "Date": "27-Oct",
+    "Victoria": 1190,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 182,
+    "Date": "28-Oct",
+    "Victoria": 1191,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 183,
+    "Date": "29-Oct",
+    "Victoria": 1193,
+    "NewDeathsPred": 2,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 184,
+    "Date": "30-Oct",
+    "Victoria": 1194,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 185,
+    "Date": "31-Oct",
+    "Victoria": 1195,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 186,
+    "Date": "1-Nov",
+    "Victoria": 1196,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 187,
+    "Date": "2-Nov",
+    "Victoria": 1197,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 188,
+    "Date": "3-Nov",
+    "Victoria": 1198,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 189,
+    "Date": "4-Nov",
+    "Victoria": 1198,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 190,
+    "Date": "5-Nov",
+    "Victoria": 1199,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 191,
+    "Date": "6-Nov",
+    "Victoria": 1200,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 192,
+    "Date": "7-Nov",
+    "Victoria": 1200,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 193,
+    "Date": "8-Nov",
+    "Victoria": 1201,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 194,
+    "Date": "9-Nov",
+    "Victoria": 1202,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 195,
+    "Date": "10-Nov",
+    "Victoria": 1202,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 196,
+    "Date": "11-Nov",
+    "Victoria": 1203,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 197,
+    "Date": "12-Nov",
+    "Victoria": 1203,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 198,
+    "Date": "13-Nov",
+    "Victoria": 1203,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 199,
+    "Date": "14-Nov",
+    "Victoria": 1204,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 200,
+    "Date": "15-Nov",
+    "Victoria": 1204,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 201,
+    "Date": "16-Nov",
+    "Victoria": 1205,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 202,
+    "Date": "17-Nov",
+    "Victoria": 1205,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 203,
+    "Date": "18-Nov",
+    "Victoria": 1205,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 204,
+    "Date": "19-Nov",
+    "Victoria": 1205,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 205,
+    "Date": "20-Nov",
+    "Victoria": 1206,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 206,
+    "Date": "21-Nov",
+    "Victoria": 1206,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 207,
+    "Date": "22-Nov",
+    "Victoria": 1206,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 208,
+    "Date": "23-Nov",
+    "Victoria": 1206,
+    "NewDeathsPred": 0,
+    "NewDeaths": null,
+    "Deaths": null
+  },
+  {
+    "Day": 209,
+    "Date": "24-Nov",
+    "Victoria": 1207,
+    "NewDeathsPred": 1,
+    "NewDeaths": null,
+    "Deaths": null
+  }
+ ]
