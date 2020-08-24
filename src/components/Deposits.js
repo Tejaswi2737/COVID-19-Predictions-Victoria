@@ -43,14 +43,14 @@ export default function Deposits(props) {
       return  `${confPred[conf.length-92].Victoria}(predicted)   ${confPred[conf.length-92].Conf}(confirmed)`
     }
     if(props.des==="Total Deaths Reported and Actual"){
-      return  `${deathsPred[deaths.length-99].Victoria}(predicted)    ${deathsPred[deaths.length-99].Deaths}(confirmed)`
+      return  `${deathsPred[deaths.length-92].Victoria}(predicted)    ${deathsPred[deaths.length-92].Deaths}(confirmed)`
     }
    
     if(props.des==="New Cases Predicted and Actual"){
       return  `${confPred[conf.length-92].NewPred}(predicted)     ${confPred[conf.length-92].NewConf}(confirmed)`
     }
     if(props.des==="New Deaths Reported and Actual"){
-      return  `${deathsPred[deaths.length-99].NewDeathsPred}(predicted)      ${deathsPred[deaths.length-99].NewDeaths}(confirmed)`
+      return  `${deathsPred[deaths.length-92].NewDeathsPred}(predicted)      ${deathsPred[deaths.length-92].NewDeaths}(confirmed)`
     }
   }
   const dates=()=>{
@@ -70,14 +70,14 @@ export default function Deposits(props) {
       return confPred[conf.length-92].Date
     }
     if(props.des==="Total Deaths Reported and Actual"){
-      return deathsPred[deaths.length-99].Date
+      return deathsPred[deaths.length-92].Date
     }
    
     if(props.des==="New Cases Predicted and Actual"){
       return confPred[conf.length-92].Date
     }
     if(props.des==="New Deaths Reported and Actual"){
-      return deathsPred[deaths.length-99].Date
+      return deathsPred[deaths.length-92].Date
     }
   }
   return (

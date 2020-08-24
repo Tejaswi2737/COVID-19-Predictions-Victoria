@@ -610,8 +610,8 @@
   {
     "Day": 76,
     "Date": "7-Jul",
-    "Victoria": 24,
-    "NewDeathsPred": 0,
+    "Victoria": 25,
+    "NewDeathsPred": 1,
     "NewDeaths": 0,
     "Deaths": 22
   },
@@ -619,7 +619,7 @@
     "Day": 77,
     "Date": "8-Jul",
     "Victoria": 26,
-    "NewDeathsPred": 2,
+    "NewDeathsPred": 1,
     "NewDeaths": 0,
     "Deaths": 22
   },
@@ -738,8 +738,8 @@
   {
     "Day": 92,
     "Date": "23-Jul",
-    "Victoria": 63,
-    "NewDeathsPred": 4,
+    "Victoria": 64,
+    "NewDeathsPred": 5,
     "NewDeaths": 6,
     "Deaths": 55
   },
@@ -747,7 +747,7 @@
     "Day": 93,
     "Date": "24-Jul",
     "Victoria": 68,
-    "NewDeathsPred": 5,
+    "NewDeathsPred": 4,
     "NewDeaths": 6,
     "Deaths": 61
   },
@@ -818,8 +818,8 @@
   {
     "Day": 102,
     "Date": "2-Aug",
-    "Victoria": 133,
-    "NewDeathsPred": 9,
+    "Victoria": 134,
+    "NewDeathsPred": 10,
     "NewDeaths": 13,
     "Deaths": 136
   },
@@ -827,7 +827,7 @@
     "Day": 103,
     "Date": "3-Aug",
     "Victoria": 144,
-    "NewDeathsPred": 11,
+    "NewDeathsPred": 10,
     "NewDeaths": 11,
     "Deaths": 147
   },
@@ -850,8 +850,8 @@
   {
     "Day": 106,
     "Date": "6-Aug",
-    "Victoria": 177,
-    "NewDeathsPred": 11,
+    "Victoria": 178,
+    "NewDeathsPred": 12,
     "NewDeaths": 11,
     "Deaths": 181
   },
@@ -859,7 +859,7 @@
     "Day": 107,
     "Date": "7-Aug",
     "Victoria": 190,
-    "NewDeathsPred": 13,
+    "NewDeathsPred": 12,
     "NewDeaths": 12,
     "Deaths": 193
   },
@@ -906,8 +906,8 @@
   {
     "Day": 113,
     "Date": "13-Aug",
-    "Victoria": 275,
-    "NewDeathsPred": 15,
+    "Victoria": 276,
+    "NewDeathsPred": 16,
     "NewDeaths": 14,
     "Deaths": 289
   },
@@ -915,7 +915,7 @@
     "Day": 114,
     "Date": "14-Aug",
     "Victoria": 291,
-    "NewDeathsPred": 16,
+    "NewDeathsPred": 15,
     "NewDeaths": 4,
     "Deaths": 293
   },
@@ -930,8 +930,8 @@
   {
     "Day": 116,
     "Date": "16-Aug",
-    "Victoria": 323,
-    "NewDeathsPred": 16,
+    "Victoria": 322,
+    "NewDeathsPred": 15,
     "NewDeaths": 25,
     "Deaths": 334
   },
@@ -939,7 +939,7 @@
     "Day": 117,
     "Date": "17-Aug",
     "Victoria": 338,
-    "NewDeathsPred": 15,
+    "NewDeathsPred": 16,
     "NewDeaths": 17,
     "Deaths": 351
   },
@@ -954,8 +954,8 @@
   {
     "Day": 119,
     "Date": "19-Aug",
-    "Victoria": 370,
-    "NewDeathsPred": 16,
+    "Victoria": 369,
+    "NewDeathsPred": 15,
     "NewDeaths": 13,
     "Deaths": 376
   },
@@ -963,22 +963,22 @@
     "Day": 120,
     "Date": "20-Aug",
     "Victoria": 385,
-    "NewDeathsPred": 15,
+    "NewDeathsPred": 16,
     "NewDeaths": 9,
     "Deaths": 385
   },
   {
     "Day": 121,
     "Date": "21-Aug",
-    "Victoria": 401,
-    "NewDeathsPred": 16,
+    "Victoria": 400,
+    "NewDeathsPred": 15,
     "NewDeaths": 13,
     "Deaths": 398
   },
   {
     "Day": 122,
     "Date": "22-Aug",
-    "Victoria": 415,
+    "Victoria": 414,
     "NewDeathsPred": 14,
     "NewDeaths": 17,
     "Deaths": 415
@@ -986,39 +986,39 @@
   {
     "Day": 123,
     "Date": "23-Aug",
-    "Victoria": 430,
+    "Victoria": 429,
     "NewDeathsPred": 15,
-    "NewDeaths": null,
-    "Deaths": null
+    "NewDeaths": 15,
+    "Deaths": 430
   },
   {
     "Day": 124,
     "Date": "24-Aug",
-    "Victoria": 444,
-    "NewDeathsPred": 14,
+    "Victoria": 442,
+    "NewDeathsPred": 13,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 125,
     "Date": "25-Aug",
-    "Victoria": 457,
-    "NewDeathsPred": 13,
+    "Victoria": 456,
+    "NewDeathsPred": 14,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 126,
     "Date": "26-Aug",
-    "Victoria": 470,
-    "NewDeathsPred": 13,
+    "Victoria": 468,
+    "NewDeathsPred": 12,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 127,
     "Date": "27-Aug",
-    "Victoria": 483,
+    "Victoria": 481,
     "NewDeathsPred": 13,
     "NewDeaths": null,
     "Deaths": null
@@ -1026,7 +1026,7 @@
   {
     "Day": 128,
     "Date": "28-Aug",
-    "Victoria": 494,
+    "Victoria": 492,
     "NewDeathsPred": 11,
     "NewDeaths": null,
     "Deaths": null
@@ -1034,7 +1034,7 @@
   {
     "Day": 129,
     "Date": "29-Aug",
-    "Victoria": 505,
+    "Victoria": 503,
     "NewDeathsPred": 11,
     "NewDeaths": null,
     "Deaths": null
@@ -1042,15 +1042,15 @@
   {
     "Day": 130,
     "Date": "30-Aug",
-    "Victoria": 516,
-    "NewDeathsPred": 11,
+    "Victoria": 513,
+    "NewDeathsPred": 10,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 131,
     "Date": "31-Aug",
-    "Victoria": 526,
+    "Victoria": 523,
     "NewDeathsPred": 10,
     "NewDeaths": null,
     "Deaths": null
@@ -1058,7 +1058,7 @@
   {
     "Day": 132,
     "Date": "1-Sep",
-    "Victoria": 535,
+    "Victoria": 532,
     "NewDeathsPred": 9,
     "NewDeaths": null,
     "Deaths": null
@@ -1066,7 +1066,7 @@
   {
     "Day": 133,
     "Date": "2-Sep",
-    "Victoria": 544,
+    "Victoria": 541,
     "NewDeathsPred": 9,
     "NewDeaths": null,
     "Deaths": null
@@ -1074,7 +1074,7 @@
   {
     "Day": 134,
     "Date": "3-Sep",
-    "Victoria": 552,
+    "Victoria": 549,
     "NewDeathsPred": 8,
     "NewDeaths": null,
     "Deaths": null
@@ -1082,15 +1082,15 @@
   {
     "Day": 135,
     "Date": "4-Sep",
-    "Victoria": 560,
-    "NewDeathsPred": 8,
+    "Victoria": 556,
+    "NewDeathsPred": 7,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 136,
     "Date": "5-Sep",
-    "Victoria": 567,
+    "Victoria": 563,
     "NewDeathsPred": 7,
     "NewDeaths": null,
     "Deaths": null
@@ -1098,7 +1098,7 @@
   {
     "Day": 137,
     "Date": "6-Sep",
-    "Victoria": 573,
+    "Victoria": 569,
     "NewDeathsPred": 6,
     "NewDeaths": null,
     "Deaths": null
@@ -1106,7 +1106,7 @@
   {
     "Day": 138,
     "Date": "7-Sep",
-    "Victoria": 579,
+    "Victoria": 575,
     "NewDeathsPred": 6,
     "NewDeaths": null,
     "Deaths": null
@@ -1114,7 +1114,7 @@
   {
     "Day": 139,
     "Date": "8-Sep",
-    "Victoria": 585,
+    "Victoria": 581,
     "NewDeathsPred": 6,
     "NewDeaths": null,
     "Deaths": null
@@ -1122,7 +1122,7 @@
   {
     "Day": 140,
     "Date": "9-Sep",
-    "Victoria": 590,
+    "Victoria": 586,
     "NewDeathsPred": 5,
     "NewDeaths": null,
     "Deaths": null
@@ -1130,7 +1130,7 @@
   {
     "Day": 141,
     "Date": "10-Sep",
-    "Victoria": 594,
+    "Victoria": 590,
     "NewDeathsPred": 4,
     "NewDeaths": null,
     "Deaths": null
@@ -1138,15 +1138,15 @@
   {
     "Day": 142,
     "Date": "11-Sep",
-    "Victoria": 599,
-    "NewDeathsPred": 5,
+    "Victoria": 594,
+    "NewDeathsPred": 4,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 143,
     "Date": "12-Sep",
-    "Victoria": 603,
+    "Victoria": 598,
     "NewDeathsPred": 4,
     "NewDeaths": null,
     "Deaths": null
@@ -1154,23 +1154,23 @@
   {
     "Day": 144,
     "Date": "13-Sep",
-    "Victoria": 606,
-    "NewDeathsPred": 3,
+    "Victoria": 602,
+    "NewDeathsPred": 4,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 145,
     "Date": "14-Sep",
-    "Victoria": 610,
-    "NewDeathsPred": 4,
+    "Victoria": 605,
+    "NewDeathsPred": 3,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 146,
     "Date": "15-Sep",
-    "Victoria": 613,
+    "Victoria": 608,
     "NewDeathsPred": 3,
     "NewDeaths": null,
     "Deaths": null
@@ -1178,23 +1178,23 @@
   {
     "Day": 147,
     "Date": "16-Sep",
-    "Victoria": 615,
-    "NewDeathsPred": 2,
+    "Victoria": 611,
+    "NewDeathsPred": 3,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 148,
     "Date": "17-Sep",
-    "Victoria": 618,
-    "NewDeathsPred": 3,
+    "Victoria": 613,
+    "NewDeathsPred": 2,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 149,
     "Date": "18-Sep",
-    "Victoria": 620,
+    "Victoria": 615,
     "NewDeathsPred": 2,
     "NewDeaths": null,
     "Deaths": null
@@ -1202,7 +1202,7 @@
   {
     "Day": 150,
     "Date": "19-Sep",
-    "Victoria": 622,
+    "Victoria": 617,
     "NewDeathsPred": 2,
     "NewDeaths": null,
     "Deaths": null
@@ -1210,7 +1210,7 @@
   {
     "Day": 151,
     "Date": "20-Sep",
-    "Victoria": 624,
+    "Victoria": 619,
     "NewDeathsPred": 2,
     "NewDeaths": null,
     "Deaths": null
@@ -1218,7 +1218,7 @@
   {
     "Day": 152,
     "Date": "21-Sep",
-    "Victoria": 626,
+    "Victoria": 621,
     "NewDeathsPred": 2,
     "NewDeaths": null,
     "Deaths": null
@@ -1226,7 +1226,7 @@
   {
     "Day": 153,
     "Date": "22-Sep",
-    "Victoria": 627,
+    "Victoria": 622,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1234,7 +1234,7 @@
   {
     "Day": 154,
     "Date": "23-Sep",
-    "Victoria": 629,
+    "Victoria": 624,
     "NewDeathsPred": 2,
     "NewDeaths": null,
     "Deaths": null
@@ -1242,7 +1242,7 @@
   {
     "Day": 155,
     "Date": "24-Sep",
-    "Victoria": 630,
+    "Victoria": 625,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1250,7 +1250,7 @@
   {
     "Day": 156,
     "Date": "25-Sep",
-    "Victoria": 631,
+    "Victoria": 626,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1258,7 +1258,7 @@
   {
     "Day": 157,
     "Date": "26-Sep",
-    "Victoria": 632,
+    "Victoria": 627,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1266,7 +1266,7 @@
   {
     "Day": 158,
     "Date": "27-Sep",
-    "Victoria": 633,
+    "Victoria": 628,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1274,7 +1274,7 @@
   {
     "Day": 159,
     "Date": "28-Sep",
-    "Victoria": 634,
+    "Victoria": 629,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1282,7 +1282,7 @@
   {
     "Day": 160,
     "Date": "29-Sep",
-    "Victoria": 635,
+    "Victoria": 630,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1290,7 +1290,7 @@
   {
     "Day": 161,
     "Date": "30-Sep",
-    "Victoria": 636,
+    "Victoria": 631,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1298,7 +1298,7 @@
   {
     "Day": 162,
     "Date": "1-Oct",
-    "Victoria": 636,
+    "Victoria": 631,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1306,7 +1306,7 @@
   {
     "Day": 163,
     "Date": "2-Oct",
-    "Victoria": 637,
+    "Victoria": 632,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1314,23 +1314,23 @@
   {
     "Day": 164,
     "Date": "3-Oct",
-    "Victoria": 638,
-    "NewDeathsPred": 1,
+    "Victoria": 632,
+    "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 165,
     "Date": "4-Oct",
-    "Victoria": 638,
-    "NewDeathsPred": 0,
+    "Victoria": 633,
+    "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 166,
     "Date": "5-Oct",
-    "Victoria": 638,
+    "Victoria": 633,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1338,7 +1338,7 @@
   {
     "Day": 167,
     "Date": "6-Oct",
-    "Victoria": 639,
+    "Victoria": 634,
     "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
@@ -1346,7 +1346,7 @@
   {
     "Day": 168,
     "Date": "7-Oct",
-    "Victoria": 639,
+    "Victoria": 634,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1354,23 +1354,23 @@
   {
     "Day": 169,
     "Date": "8-Oct",
-    "Victoria": 640,
-    "NewDeathsPred": 1,
+    "Victoria": 634,
+    "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 170,
     "Date": "9-Oct",
-    "Victoria": 640,
-    "NewDeathsPred": 0,
+    "Victoria": 635,
+    "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 171,
     "Date": "10-Oct",
-    "Victoria": 640,
+    "Victoria": 635,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1378,7 +1378,7 @@
   {
     "Day": 172,
     "Date": "11-Oct",
-    "Victoria": 640,
+    "Victoria": 635,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1386,15 +1386,15 @@
   {
     "Day": 173,
     "Date": "12-Oct",
-    "Victoria": 641,
-    "NewDeathsPred": 1,
+    "Victoria": 635,
+    "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 174,
     "Date": "13-Oct",
-    "Victoria": 641,
+    "Victoria": 635,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1402,15 +1402,15 @@
   {
     "Day": 175,
     "Date": "14-Oct",
-    "Victoria": 641,
-    "NewDeathsPred": 0,
+    "Victoria": 636,
+    "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 176,
     "Date": "15-Oct",
-    "Victoria": 641,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1418,7 +1418,7 @@
   {
     "Day": 177,
     "Date": "16-Oct",
-    "Victoria": 641,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1426,7 +1426,7 @@
   {
     "Day": 178,
     "Date": "17-Oct",
-    "Victoria": 641,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1434,7 +1434,7 @@
   {
     "Day": 179,
     "Date": "18-Oct",
-    "Victoria": 641,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1442,15 +1442,15 @@
   {
     "Day": 180,
     "Date": "19-Oct",
-    "Victoria": 642,
-    "NewDeathsPred": 1,
+    "Victoria": 636,
+    "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 181,
     "Date": "20-Oct",
-    "Victoria": 642,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1458,7 +1458,7 @@
   {
     "Day": 182,
     "Date": "21-Oct",
-    "Victoria": 642,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1466,7 +1466,7 @@
   {
     "Day": 183,
     "Date": "22-Oct",
-    "Victoria": 642,
+    "Victoria": 636,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1474,15 +1474,15 @@
   {
     "Day": 184,
     "Date": "23-Oct",
-    "Victoria": 642,
-    "NewDeathsPred": 0,
+    "Victoria": 637,
+    "NewDeathsPred": 1,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 185,
     "Date": "24-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1490,7 +1490,7 @@
   {
     "Day": 186,
     "Date": "25-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1498,7 +1498,7 @@
   {
     "Day": 187,
     "Date": "26-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1506,7 +1506,7 @@
   {
     "Day": 188,
     "Date": "27-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1514,7 +1514,7 @@
   {
     "Day": 189,
     "Date": "28-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1522,7 +1522,7 @@
   {
     "Day": 190,
     "Date": "29-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1530,7 +1530,7 @@
   {
     "Day": 191,
     "Date": "30-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1538,7 +1538,7 @@
   {
     "Day": 192,
     "Date": "31-Oct",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1546,7 +1546,7 @@
   {
     "Day": 193,
     "Date": "1-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1554,7 +1554,7 @@
   {
     "Day": 194,
     "Date": "2-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1562,7 +1562,7 @@
   {
     "Day": 195,
     "Date": "3-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1570,7 +1570,7 @@
   {
     "Day": 196,
     "Date": "4-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1578,7 +1578,7 @@
   {
     "Day": 197,
     "Date": "5-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1586,7 +1586,7 @@
   {
     "Day": 198,
     "Date": "6-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1594,7 +1594,7 @@
   {
     "Day": 199,
     "Date": "7-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1602,7 +1602,7 @@
   {
     "Day": 200,
     "Date": "8-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1610,7 +1610,7 @@
   {
     "Day": 201,
     "Date": "9-Nov",
-    "Victoria": 642,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1618,15 +1618,15 @@
   {
     "Day": 202,
     "Date": "10-Nov",
-    "Victoria": 643,
-    "NewDeathsPred": 1,
+    "Victoria": 637,
+    "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
   },
   {
     "Day": 203,
     "Date": "11-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1634,7 +1634,7 @@
   {
     "Day": 204,
     "Date": "12-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1642,7 +1642,7 @@
   {
     "Day": 205,
     "Date": "13-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1650,7 +1650,7 @@
   {
     "Day": 206,
     "Date": "14-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1658,7 +1658,7 @@
   {
     "Day": 207,
     "Date": "15-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1666,7 +1666,7 @@
   {
     "Day": 208,
     "Date": "16-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null
@@ -1674,7 +1674,7 @@
   {
     "Day": 209,
     "Date": "17-Nov",
-    "Victoria": 643,
+    "Victoria": 637,
     "NewDeathsPred": 0,
     "NewDeaths": null,
     "Deaths": null

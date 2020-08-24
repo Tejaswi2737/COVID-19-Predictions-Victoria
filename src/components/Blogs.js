@@ -180,7 +180,7 @@ export default function Blogs() {
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}  >
                 <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/understanding-the-math-of-covid-19-a2092849ca33" className={fixedHeightPaper} 
                 style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
-                  <Title >Understanding the Math of COVID-19</Title>
+                  <Title >Understanding the Math of COVID-19</Title>
                   <CardMedia image={MathGif} style={{minHeight:"70%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting the math used for training the available data and predicting the future data
@@ -192,7 +192,7 @@ export default function Blogs() {
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
                 <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/modeling-total-cases-and-deaths-of-covid-19-in-victoria-australia-first-wave-b9976dcb5ca8" className={fixedHeightPaper} 
                 style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
-                  <Title>Training Machine for Total Cases and Deaths of COVID-19 in Victoria, Australia (First Wave)</Title>
+                  <Title>Training Machine for Total Cases and Deaths of COVID-19 in Victoria, Australia (First Wave)</Title>
                   <CardMedia image={Data} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting the procedure to model and predict the Total Cases and Deaths of COVID-19 in Victoria, Australia.
