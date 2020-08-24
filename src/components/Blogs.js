@@ -149,9 +149,11 @@ export default function Blogs() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
-            Victoria Covid-19 Predictions
-          </Typography>
+          <Link href="/" style={{color:"white",textDecoration:"none"}}>
+            <Typography button  component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
+              Victoria Covid-19 Predictions
+            </Typography>
+          </Link>
 
         </Toolbar>
       </AppBar>
@@ -191,7 +193,7 @@ export default function Blogs() {
                   <Title>Training Machine for Total Cases and Deaths of COVID-19 in Victoria, Australia (First Wave)</Title>
                   <CardMedia image={Data} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
-                    A blog presenting the procedure of training Machine for Total Cases and Deaths of COVID-19 in Victoria, Australia and testing the model.
+                    Blog presenting the procedure to model and predict the Total Cases and Deaths of COVID-19 in Victoria, Australia.
                   </CardContent>
                 </Link>
               </Paper>
@@ -199,10 +201,10 @@ export default function Blogs() {
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
                 <Link component="a" target="_blank" href="https://medium.com/p/e667803c3402/edit" className={fixedHeightPaper} style={{textDecoration:"none"}}>
-                  <Title  style={{minHeight:"20%"}}>An understanding between the total cases and deaths reported for Victora, Australia</Title>
+                  <Title  style={{minHeight:"20%"}}>An understanding of the relation between total cases and deaths reported for Victora, Australia.</Title>
                   <CardMedia image={Stay}  style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
-                    A Blog presenting an understanding of relation between the total cases and deaths reported for Victora, Australia
+                    Blog presenting an understanding of relation between the total cases and deaths reported for Victora, Australia
                   </CardContent>
                 </Link>
               </Paper>
@@ -213,7 +215,7 @@ export default function Blogs() {
                   <Title>Analyzing the second wave cases in Victoria, Australia</Title>
                   <CardMedia image={VicWave} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
-                    A blog presenting analysis of the second wave cases in Victoria, Australia and predicting the cases and possible deaths from the pandemic
+                    Blog presenting analysis of the second wave cases in Victoria, Australia and predicting the cases and possible deaths from the pandemic
                   </CardContent>
                 </Link>
               </Paper>

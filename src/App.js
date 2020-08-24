@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
+import history from "./history";
 
 
 import Dashboard from './components/Dashboard';
@@ -14,7 +15,7 @@ class App extends Component {
     return (
   
       <div className="App">
-        <Router>
+        <Router history={history} basename={process.env.PUBLIC_URL}>
           <div>
             <Switch>
               <Route exact path="/" render={() =><Dashboard/>} />
