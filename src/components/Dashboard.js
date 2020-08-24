@@ -153,8 +153,6 @@ export default function Dashboard() {
               Victoria Covid-19 Predictions
             </Typography>
           </Link>
-
-
         </Toolbar>
       </AppBar>
       <Drawer
