@@ -8,24 +8,33 @@ import LayersIcon from '@material-ui/icons/Layers';
 import {Link } from 'react-router-dom';
 export const mainListItems = (
   <div>
-    <ListItem component="a" href="/COVID-19-Predictions-Victoria/" button >
+    <Link to="/">
+      <ListItem component="a"  button >
+          <ListItemIcon>
+            <ShowChartOutlined />
+          </ListItemIcon>
+          <ListItemText primary="Predictions" />
+      </ListItem>
+    </Link>
+
+    <Link to="/Statistics">
+      <ListItem component="a"  button >
         <ListItemIcon>
-          <ShowChartOutlined />
+          <InsertChartOutlinedRounded />
         </ListItemIcon>
-        <ListItemText primary="Predictions" />
-    </ListItem>
-    <ListItem component="a" href="/COVID-19-Predictions-Victoria/Statistics" button >
-      <ListItemIcon>
-        <InsertChartOutlinedRounded />
-      </ListItemIcon>
-      <ListItemText primary="Daily Statistics" />
-    </ListItem>
-    <ListItem component="a" href="/COVID-19-Predictions-Victoria/Blogs" button>
-      <ListItemIcon>
-        <LayersIcon />
-      </ListItemIcon>
-      <ListItemText primary="Blogs" />
-    </ListItem>
+        <ListItemText primary="Daily Statistics" />
+      </ListItem>
+    </Link>
+    <Link to="/Blogs">
+      <ListItem component="a" href="/COVID-19-Predictions-Victoria/Blogs" button>
+        <ListItemIcon>
+          <LayersIcon />
+        </ListItemIcon>
+        <ListItemText primary="Blogs" />
+      </ListItem>
+    </Link>
+
+
   </div>
 );
 

@@ -20,7 +20,7 @@ import Badge from '@material-ui/core/Badge';
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
-import Link from '@material-ui/core/Link';
+import {Link } from 'react-router-dom';
 import MenuIcon from '@material-ui/icons/Menu';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import { mainListItems, secondaryListItems } from './listItems';
@@ -35,7 +35,7 @@ function Copyright() {
   return (
     <Typography variant="body2" color="textPrimary" align="center">
       {'Date Source © '}
-      <Link color="inherit" target="_blank" href="https://github.com/CSSEGISandData/COVID-19">
+      <Link color="inherit" target="_blank" to="https://github.com/CSSEGISandData/COVID-19">
         CSSEGISandData
       </Link>{' '}
       {'.'}
@@ -149,7 +149,7 @@ export default function Blogs() {
           >
             <MenuIcon />
           </IconButton>
-          <Link href="/" style={{color:"white",textDecoration:"none"}}>
+          <Link to="/" style={{color:"white",textDecoration:"none"}}>
             <Typography button  component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
               Victoria Covid-19 Predictions
             </Typography>
@@ -178,7 +178,8 @@ export default function Blogs() {
           <Grid container spacing={3}>           
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}  >
-                <Link component="a" target="_blank" href="https://medium.com/p/a2092849ca33/edit" className={fixedHeightPaper} style={{textDecoration:"none"}}>
+                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/understanding-the-math-of-covid-19-a2092849ca33" className={fixedHeightPaper} 
+                style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title >Understanding the Math of COVID-19</Title>
                   <CardMedia image={MathGif} style={{minHeight:"70%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
@@ -189,7 +190,8 @@ export default function Blogs() {
             </Grid>
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
-                <Link component="a" target="_blank" href="https://medium.com/p/b9976dcb5ca8/edit" className={fixedHeightPaper} style={{textDecoration:"none"}}>
+                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/modeling-total-cases-and-deaths-of-covid-19-in-victoria-australia-first-wave-b9976dcb5ca8" className={fixedHeightPaper} 
+                style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title>Training Machine for Total Cases and Deaths of COVID-19 in Victoria, Australia (First Wave)</Title>
                   <CardMedia image={Data} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
@@ -200,18 +202,20 @@ export default function Blogs() {
             </Grid>
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
-                <Link component="a" target="_blank" href="https://medium.com/p/e667803c3402/edit" className={fixedHeightPaper} style={{textDecoration:"none"}}>
+                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/an-understanding-of-the-relation-between-total-cases-and-deaths-reported-for-victora-australia-e667803c3402" className={fixedHeightPaper} 
+                style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title  style={{minHeight:"20%"}}>An understanding of the relation between total cases and deaths reported for Victora, Australia.</Title>
                   <CardMedia image={Stay}  style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting an understanding of relation between the total cases and deaths reported for Victora, Australia
-                  </CardContent>
+                </CardContent>
                 </Link>
               </Paper>
             </Grid>
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
-                <Link component="a" target="_blank" href="https://medium.com/p/3f7ae076fa04/edit" className={fixedHeightPaper} style={{textDecoration:"none"}}>
+                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/analyzing-the-second-wave-cases-in-victoria-australia-3f7ae076fa04" className={fixedHeightPaper} 
+                style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title>Analyzing the second wave cases in Victoria, Australia</Title>
                   <CardMedia image={VicWave} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">

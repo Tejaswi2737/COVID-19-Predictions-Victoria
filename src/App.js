@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import history from "./history";
 
@@ -14,17 +14,15 @@ class App extends Component {
 
     return (
   
-      <div className="App">
         <Router history={history} basename={process.env.PUBLIC_URL}>
           <div>
             <Switch>
-              <Route exact path="/" render={() =><Dashboard/>} />
-              <Route exact path="/Statistics" render={() =><Statistics/>} />
-              <Route exact path="/Blogs" render={() =><Blogs/>} />
+              <Route exact path="/" component={Dashboard} />
+              <Route exact path="/Statistics" component={Statistics} />
+              <Route exact path="/Blogs" component={Blogs} />
             </Switch>
           </div>
         </Router>
-      </div>
     );
   }
 }

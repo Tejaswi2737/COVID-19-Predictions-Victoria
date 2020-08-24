@@ -69,7 +69,10 @@
   overflow: hidden !important
 }
 
-.makeStyles-fixedHeight-15{
+.makeStyles-paper-31, .makeStyles-fixedHeight-15, .makeStyles-fixedHeight-35,.makeStyles-fixedHeight-52{
   height: 350px !important
+}
+.makeStyles-fixedHeight-54{
+  height: 100%;
 }
 
