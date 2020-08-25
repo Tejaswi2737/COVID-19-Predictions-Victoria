@@ -18,7 +18,7 @@ function createData( Date, NewPred,NewCases,TotalPred,actualTotal ) {
 }
 
 const rows = [
-    deathsPred.slice(deaths.length-107,deaths.length-11).map(item=>(
+    deathsPred.slice(deaths.length-100,deaths.length).map(item=>(
         createData(item.Date,item.NewDeathsPred,item.NewDeaths,item.Victoria,item.Deaths)
     ))
 ];

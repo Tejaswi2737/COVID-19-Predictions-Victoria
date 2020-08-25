@@ -178,50 +178,50 @@ export default function Blogs() {
           <Grid container spacing={3}>           
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}  >
-                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/understanding-the-math-of-covid-19-a2092849ca33" className={fixedHeightPaper} 
+                <a component="a" target="_blank" href="https://medium.com/@teja37.kota/understanding-the-math-of-covid-19-a2092849ca33" className={fixedHeightPaper} 
                 style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title >Understanding the Math of COVID-19</Title>
                   <CardMedia image={MathGif} style={{minHeight:"70%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting the math used for training the available data and predicting the future data
                   </CardContent>
-                </Link>
+                </a>
               </Paper>
             </Grid>
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
-                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/modeling-total-cases-and-deaths-of-covid-19-in-victoria-australia-first-wave-b9976dcb5ca8" className={fixedHeightPaper} 
+                <a component="a" target="_blank" href="https://medium.com/@teja37.kota/modeling-total-cases-and-deaths-of-covid-19-in-victoria-australia-first-wave-b9976dcb5ca8" className={fixedHeightPaper} 
                 style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title>Training Machine for Total Cases and Deaths of COVID-19 in Victoria, Australia (First Wave)</Title>
                   <CardMedia image={Data} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting the procedure to model and predict the Total Cases and Deaths of COVID-19 in Victoria, Australia.
                   </CardContent>
-                </Link>
+                </a>
               </Paper>
             </Grid>
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
-                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/an-understanding-of-the-relation-between-total-cases-and-deaths-reported-for-victora-australia-e667803c3402" className={fixedHeightPaper} 
+                <a component="a" target="_blank" href="https://medium.com/@teja37.kota/an-understanding-of-the-relation-between-total-cases-and-deaths-reported-for-victora-australia-e667803c3402" className={fixedHeightPaper} 
                 style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title  style={{minHeight:"20%"}}>An understanding of the relation between total cases and deaths reported for Victora, Australia.</Title>
                   <CardMedia image={Stay}  style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting an understanding of relation between the total cases and deaths reported for Victora, Australia
                 </CardContent>
-                </Link>
+                </a>
               </Paper>
             </Grid>
             <Grid item xs={12} md={6} lg={6}>
               <Paper className={fixedHeightPaper} style={{minHeight:"400px"}}>
-                <Link component="a" target="_blank" to="https://medium.com/@teja37.kota/analyzing-the-second-wave-cases-in-victoria-australia-3f7ae076fa04" className={fixedHeightPaper} 
+                <a component="a" target="_blank" href="https://medium.com/@teja37.kota/analyzing-the-second-wave-cases-in-victoria-australia-3f7ae076fa04" className={fixedHeightPaper} 
                 style={{textDecoration:"none",height:"100%",overflowY:"hidden"}}>
                   <Title>Analyzing the second wave cases in Victoria, Australia</Title>
                   <CardMedia image={VicWave} style={{minHeight:"60%"}}/>
                   <CardContent component="h6" variant="h6" color="inherit" noWrap className="text-center">
                     Blog presenting analysis of the second wave cases in Victoria, Australia and predicting the cases and possible deaths from the pandemic
                   </CardContent>
-                </Link>
+                </a>
               </Paper>
             </Grid>
           </Grid>
