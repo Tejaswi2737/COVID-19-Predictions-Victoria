@@ -34,10 +34,10 @@ import NewDeathsPred from './NewDeathsPred';
 function Copyright() {
   return (
     <Typography variant="body2" color="textPrimary" align="center">
-      {'Date Source © '}
-      <Link color="inherit" target="_blank" to="https://github.com/CSSEGISandData/COVID-19">
+      {'Data Source © '}
+      <a color="inherit" target="_blank" href="https://github.com/CSSEGISandData/COVID-19">
         CSSEGISandData
-      </Link>{' '}
+      </a>{' '}
       {'.'}
     </Typography>
   );

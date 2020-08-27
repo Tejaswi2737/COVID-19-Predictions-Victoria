@@ -75,3 +75,6 @@
 .makeStyles-fixedHeight-54{
   height: 100%;
 }
+.MuiTableCell-stickyHeader{
+  background-color: none;
+}
