@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/COVID-19-Predictions-Victoria/precache-manifest.dc5228682c42c8cfab7a6c386ae55994.js"
+  "/COVID-19-Predictions-Victoria/precache-manifest.b8bb4a93c51febd3510798f3353cb6cb.js"
 );
 
 self.addEventListener('message', (event) => {
