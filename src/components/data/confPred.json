@@ -2,7 +2,7 @@
   {
     "Day": 0,
     "Date": "22-Apr",
-    "Victoria": 1337,
+    "Victoria": 1339,
     "NewPred": 0,
     "NewConf": 0,
     "Conf": 1336
@@ -10,7 +10,7 @@
   {
     "Day": 1,
     "Date": "23-Apr",
-    "Victoria": 1337,
+    "Victoria": 1339,
     "NewPred": 0,
     "NewConf": 1,
     "Conf": 1337
@@ -18,15 +18,15 @@
   {
     "Day": 2,
     "Date": "24-Apr",
-    "Victoria": 1337,
-    "NewPred": 0,
+    "Victoria": 1340,
+    "NewPred": 1,
     "NewConf": 6,
     "Conf": 1343
   },
   {
     "Day": 3,
     "Date": "25-Apr",
-    "Victoria": 1337,
+    "Victoria": 1340,
     "NewPred": 0,
     "NewConf": 3,
     "Conf": 1346
@@ -34,7 +34,7 @@
   {
     "Day": 4,
     "Date": "26-Apr",
-    "Victoria": 1337,
+    "Victoria": 1340,
     "NewPred": 0,
     "NewConf": 3,
     "Conf": 1349
@@ -42,15 +42,15 @@
   {
     "Day": 5,
     "Date": "27-Apr",
-    "Victoria": 1337,
-    "NewPred": 0,
+    "Victoria": 1341,
+    "NewPred": 1,
     "NewConf": 0,
     "Conf": 1349
   },
   {
     "Day": 6,
     "Date": "28-Apr",
-    "Victoria": 1337,
+    "Victoria": 1341,
     "NewPred": 0,
     "NewConf": 5,
     "Conf": 1354
@@ -58,7 +58,7 @@
   {
     "Day": 7,
     "Date": "29-Apr",
-    "Victoria": 1338,
+    "Victoria": 1342,
     "NewPred": 1,
     "NewConf": 7,
     "Conf": 1361
@@ -66,7 +66,7 @@
   {
     "Day": 8,
     "Date": "30-Apr",
-    "Victoria": 1338,
+    "Victoria": 1342,
     "NewPred": 0,
     "NewConf": 3,
     "Conf": 1364
@@ -74,15 +74,15 @@
   {
     "Day": 9,
     "Date": "1-May",
-    "Victoria": 1338,
-    "NewPred": 0,
+    "Victoria": 1343,
+    "NewPred": 1,
     "NewConf": 7,
     "Conf": 1371
   },
   {
     "Day": 10,
     "Date": "2-May",
-    "Victoria": 1338,
+    "Victoria": 1343,
     "NewPred": 0,
     "NewConf": 13,
     "Conf": 1384
@@ -90,15 +90,15 @@
   {
     "Day": 11,
     "Date": "3-May",
-    "Victoria": 1338,
-    "NewPred": 0,
+    "Victoria": 1344,
+    "NewPred": 1,
     "NewConf": 22,
     "Conf": 1406
   },
   {
     "Day": 12,
     "Date": "4-May",
-    "Victoria": 1339,
+    "Victoria": 1345,
     "NewPred": 1,
     "NewConf": 17,
     "Conf": 1423
@@ -106,7 +106,7 @@
   {
     "Day": 13,
     "Date": "5-May",
-    "Victoria": 1339,
+    "Victoria": 1345,
     "NewPred": 0,
     "NewConf": 17,
     "Conf": 1440
@@ -114,15 +114,15 @@
   {
     "Day": 14,
     "Date": "6-May",
-    "Victoria": 1339,
-    "NewPred": 0,
+    "Victoria": 1346,
+    "NewPred": 1,
     "NewConf": 14,
     "Conf": 1454
   },
   {
     "Day": 15,
     "Date": "7-May",
-    "Victoria": 1340,
+    "Victoria": 1347,
     "NewPred": 1,
     "NewConf": 13,
     "Conf": 1467
@@ -130,23 +130,23 @@
   {
     "Day": 16,
     "Date": "8-May",
-    "Victoria": 1340,
-    "NewPred": 0,
+    "Victoria": 1348,
+    "NewPred": 1,
     "NewConf": 1,
     "Conf": 1468
   },
   {
     "Day": 17,
     "Date": "9-May",
-    "Victoria": 1340,
-    "NewPred": 0,
+    "Victoria": 1349,
+    "NewPred": 1,
     "NewConf": 19,
     "Conf": 1487
   },
   {
     "Day": 18,
     "Date": "10-May",
-    "Victoria": 1341,
+    "Victoria": 1350,
     "NewPred": 1,
     "NewConf": 9,
     "Conf": 1496
@@ -154,15 +154,15 @@
   {
     "Day": 19,
     "Date": "11-May",
-    "Victoria": 1341,
-    "NewPred": 0,
+    "Victoria": 1352,
+    "NewPred": 2,
     "NewConf": 15,
     "Conf": 1511
   },
   {
     "Day": 20,
     "Date": "12-May",
-    "Victoria": 1342,
+    "Victoria": 1353,
     "NewPred": 1,
     "NewConf": 3,
     "Conf": 1514
@@ -170,1279 +170,1279 @@
   {
     "Day": 21,
     "Date": "13-May",
-    "Victoria": 1343,
-    "NewPred": 1,
+    "Victoria": 1355,
+    "NewPred": 2,
     "NewConf": 7,
     "Conf": 1521
   },
   {
     "Day": 22,
     "Date": "14-May",
-    "Victoria": 1343,
-    "NewPred": 0,
+    "Victoria": 1356,
+    "NewPred": 1,
     "NewConf": 19,
     "Conf": 1540
   },
   {
     "Day": 23,
     "Date": "15-May",
-    "Victoria": 1344,
-    "NewPred": 1,
+    "Victoria": 1358,
+    "NewPred": 2,
     "NewConf": 11,
     "Conf": 1551
   },
   {
     "Day": 24,
     "Date": "16-May",
-    "Victoria": 1345,
-    "NewPred": 1,
+    "Victoria": 1360,
+    "NewPred": 2,
     "NewConf": 7,
     "Conf": 1558
   },
   {
     "Day": 25,
     "Date": "17-May",
-    "Victoria": 1346,
-    "NewPred": 1,
+    "Victoria": 1363,
+    "NewPred": 3,
     "NewConf": 6,
     "Conf": 1564
   },
   {
     "Day": 26,
     "Date": "18-May",
-    "Victoria": 1347,
-    "NewPred": 1,
+    "Victoria": 1365,
+    "NewPred": 2,
     "NewConf": 9,
     "Conf": 1573
   },
   {
     "Day": 27,
     "Date": "19-May",
-    "Victoria": 1348,
-    "NewPred": 1,
+    "Victoria": 1368,
+    "NewPred": 3,
     "NewConf": 0,
     "Conf": 1573
   },
   {
     "Day": 28,
     "Date": "20-May",
-    "Victoria": 1349,
-    "NewPred": 1,
+    "Victoria": 1370,
+    "NewPred": 2,
     "NewConf": 8,
     "Conf": 1581
   },
   {
     "Day": 29,
     "Date": "21-May",
-    "Victoria": 1351,
-    "NewPred": 2,
+    "Victoria": 1374,
+    "NewPred": 4,
     "NewConf": 12,
     "Conf": 1593
   },
   {
     "Day": 30,
     "Date": "22-May",
-    "Victoria": 1352,
-    "NewPred": 1,
+    "Victoria": 1377,
+    "NewPred": 3,
     "NewConf": 0,
     "Conf": 1593
   },
   {
     "Day": 31,
     "Date": "23-May",
-    "Victoria": 1354,
-    "NewPred": 2,
+    "Victoria": 1381,
+    "NewPred": 4,
     "NewConf": 10,
     "Conf": 1603
   },
   {
     "Day": 32,
     "Date": "24-May",
-    "Victoria": 1356,
-    "NewPred": 2,
+    "Victoria": 1385,
+    "NewPred": 4,
     "NewConf": 2,
     "Conf": 1605
   },
   {
     "Day": 33,
     "Date": "25-May",
-    "Victoria": 1358,
-    "NewPred": 2,
+    "Victoria": 1389,
+    "NewPred": 4,
     "NewConf": 5,
     "Conf": 1610
   },
   {
     "Day": 34,
     "Date": "26-May",
-    "Victoria": 1361,
-    "NewPred": 3,
+    "Victoria": 1394,
+    "NewPred": 5,
     "NewConf": 8,
     "Conf": 1618
   },
   {
     "Day": 35,
     "Date": "27-May",
-    "Victoria": 1363,
-    "NewPred": 2,
+    "Victoria": 1399,
+    "NewPred": 5,
     "NewConf": 10,
     "Conf": 1628
   },
   {
     "Day": 36,
     "Date": "28-May",
-    "Victoria": 1366,
-    "NewPred": 3,
+    "Victoria": 1405,
+    "NewPred": 6,
     "NewConf": 6,
     "Conf": 1634
   },
   {
     "Day": 37,
     "Date": "29-May",
-    "Victoria": 1369,
-    "NewPred": 3,
+    "Victoria": 1412,
+    "NewPred": 7,
     "NewConf": 11,
     "Conf": 1645
   },
   {
     "Day": 38,
     "Date": "30-May",
-    "Victoria": 1373,
-    "NewPred": 4,
+    "Victoria": 1418,
+    "NewPred": 6,
     "NewConf": 4,
     "Conf": 1649
   },
   {
     "Day": 39,
     "Date": "31-May",
-    "Victoria": 1377,
-    "NewPred": 4,
+    "Victoria": 1426,
+    "NewPred": 8,
     "NewConf": 4,
     "Conf": 1653
   },
   {
     "Day": 40,
     "Date": "1-Jun",
-    "Victoria": 1381,
-    "NewPred": 4,
+    "Victoria": 1434,
+    "NewPred": 8,
     "NewConf": 10,
     "Conf": 1663
   },
   {
     "Day": 41,
     "Date": "2-Jun",
-    "Victoria": 1386,
-    "NewPred": 5,
+    "Victoria": 1443,
+    "NewPred": 9,
     "NewConf": 7,
     "Conf": 1670
   },
   {
     "Day": 42,
     "Date": "3-Jun",
-    "Victoria": 1392,
-    "NewPred": 6,
+    "Victoria": 1453,
+    "NewPred": 10,
     "NewConf": 8,
     "Conf": 1678
   },
   {
     "Day": 43,
     "Date": "4-Jun",
-    "Victoria": 1397,
-    "NewPred": 5,
+    "Victoria": 1463,
+    "NewPred": 10,
     "NewConf": 3,
     "Conf": 1681
   },
   {
     "Day": 44,
     "Date": "5-Jun",
-    "Victoria": 1404,
-    "NewPred": 7,
+    "Victoria": 1475,
+    "NewPred": 12,
     "NewConf": 0,
     "Conf": 1681
   },
   {
     "Day": 45,
     "Date": "6-Jun",
-    "Victoria": 1411,
-    "NewPred": 7,
+    "Victoria": 1487,
+    "NewPred": 12,
     "NewConf": 4,
     "Conf": 1685
   },
   {
     "Day": 46,
     "Date": "7-Jun",
-    "Victoria": 1419,
-    "NewPred": 8,
+    "Victoria": 1501,
+    "NewPred": 14,
     "NewConf": 2,
     "Conf": 1687
   },
   {
     "Day": 47,
     "Date": "8-Jun",
-    "Victoria": 1428,
-    "NewPred": 9,
+    "Victoria": 1516,
+    "NewPred": 15,
     "NewConf": 0,
     "Conf": 1687
   },
   {
     "Day": 48,
     "Date": "9-Jun",
-    "Victoria": 1438,
-    "NewPred": 10,
+    "Victoria": 1532,
+    "NewPred": 16,
     "NewConf": 4,
     "Conf": 1691
   },
   {
     "Day": 49,
     "Date": "10-Jun",
-    "Victoria": 1449,
-    "NewPred": 11,
+    "Victoria": 1550,
+    "NewPred": 18,
     "NewConf": 8,
     "Conf": 1699
   },
   {
     "Day": 50,
     "Date": "11-Jun",
-    "Victoria": 1461,
-    "NewPred": 12,
+    "Victoria": 1569,
+    "NewPred": 19,
     "NewConf": 4,
     "Conf": 1703
   },
   {
     "Day": 51,
     "Date": "12-Jun",
-    "Victoria": 1474,
-    "NewPred": 13,
+    "Victoria": 1590,
+    "NewPred": 21,
     "NewConf": 0,
     "Conf": 1703
   },
   {
     "Day": 52,
     "Date": "13-Jun",
-    "Victoria": 1488,
-    "NewPred": 14,
+    "Victoria": 1613,
+    "NewPred": 23,
     "NewConf": 17,
     "Conf": 1720
   },
   {
     "Day": 53,
     "Date": "14-Jun",
-    "Victoria": 1504,
-    "NewPred": 16,
+    "Victoria": 1638,
+    "NewPred": 25,
     "NewConf": 12,
     "Conf": 1732
   },
   {
     "Day": 54,
     "Date": "15-Jun",
-    "Victoria": 1522,
-    "NewPred": 18,
+    "Victoria": 1665,
+    "NewPred": 27,
     "NewConf": 9,
     "Conf": 1741
   },
   {
     "Day": 55,
     "Date": "16-Jun",
-    "Victoria": 1542,
-    "NewPred": 20,
+    "Victoria": 1695,
+    "NewPred": 30,
     "NewConf": 21,
     "Conf": 1762
   },
   {
     "Day": 56,
     "Date": "17-Jun",
-    "Victoria": 1564,
-    "NewPred": 22,
+    "Victoria": 1727,
+    "NewPred": 32,
     "NewConf": 18,
     "Conf": 1780
   },
   {
     "Day": 57,
     "Date": "18-Jun",
-    "Victoria": 1588,
-    "NewPred": 24,
+    "Victoria": 1762,
+    "NewPred": 35,
     "NewConf": 12,
     "Conf": 1792
   },
   {
     "Day": 58,
     "Date": "19-Jun",
-    "Victoria": 1614,
-    "NewPred": 26,
+    "Victoria": 1800,
+    "NewPred": 38,
     "NewConf": 0,
     "Conf": 1792
   },
   {
     "Day": 59,
     "Date": "20-Jun",
-    "Victoria": 1643,
-    "NewPred": 29,
+    "Victoria": 1841,
+    "NewPred": 41,
     "NewConf": 44,
     "Conf": 1836
   },
   {
     "Day": 60,
     "Date": "21-Jun",
-    "Victoria": 1675,
-    "NewPred": 32,
+    "Victoria": 1886,
+    "NewPred": 45,
     "NewConf": 11,
     "Conf": 1847
   },
   {
     "Day": 61,
     "Date": "22-Jun",
-    "Victoria": 1711,
-    "NewPred": 36,
+    "Victoria": 1934,
+    "NewPred": 48,
     "NewConf": 17,
     "Conf": 1864
   },
   {
     "Day": 62,
     "Date": "23-Jun",
-    "Victoria": 1750,
-    "NewPred": 39,
+    "Victoria": 1987,
+    "NewPred": 53,
     "NewConf": 20,
     "Conf": 1884
   },
   {
     "Day": 63,
     "Date": "24-Jun",
-    "Victoria": 1793,
-    "NewPred": 43,
+    "Victoria": 2044,
+    "NewPred": 57,
     "NewConf": 33,
     "Conf": 1917
   },
   {
     "Day": 64,
     "Date": "25-Jun",
-    "Victoria": 1841,
-    "NewPred": 48,
+    "Victoria": 2106,
+    "NewPred": 62,
     "NewConf": 30,
     "Conf": 1947
   },
   {
     "Day": 65,
     "Date": "26-Jun",
-    "Victoria": 1893,
-    "NewPred": 52,
+    "Victoria": 2173,
+    "NewPred": 67,
     "NewConf": 0,
     "Conf": 1947
   },
   {
     "Day": 66,
     "Date": "27-Jun",
-    "Victoria": 1951,
-    "NewPred": 58,
+    "Victoria": 2246,
+    "NewPred": 73,
     "NewConf": 81,
     "Conf": 2028
   },
   {
     "Day": 67,
     "Date": "28-Jun",
-    "Victoria": 2014,
-    "NewPred": 63,
+    "Victoria": 2325,
+    "NewPred": 79,
     "NewConf": 71,
     "Conf": 2099
   },
   {
     "Day": 68,
     "Date": "29-Jun",
-    "Victoria": 2083,
-    "NewPred": 69,
+    "Victoria": 2410,
+    "NewPred": 85,
     "NewConf": 60,
     "Conf": 2159
   },
   {
     "Day": 69,
     "Date": "30-Jun",
-    "Victoria": 2159,
-    "NewPred": 76,
+    "Victoria": 2503,
+    "NewPred": 93,
     "NewConf": 72,
     "Conf": 2231
   },
   {
     "Day": 70,
     "Date": "1-Jul",
-    "Victoria": 2243,
-    "NewPred": 84,
+    "Victoria": 2602,
+    "NewPred": 99,
     "NewConf": 72,
     "Conf": 2303
   },
   {
     "Day": 71,
     "Date": "2-Jul",
-    "Victoria": 2335,
-    "NewPred": 92,
+    "Victoria": 2709,
+    "NewPred": 107,
     "NewConf": 65,
     "Conf": 2368
   },
   {
     "Day": 72,
     "Date": "3-Jul",
-    "Victoria": 2435,
-    "NewPred": 100,
+    "Victoria": 2825,
+    "NewPred": 116,
     "NewConf": 0,
     "Conf": 2368
   },
   {
     "Day": 73,
     "Date": "4-Jul",
-    "Victoria": 2545,
-    "NewPred": 110,
+    "Victoria": 2950,
+    "NewPred": 125,
     "NewConf": 168,
     "Conf": 2536
   },
   {
     "Day": 74,
     "Date": "5-Jul",
-    "Victoria": 2664,
-    "NewPred": 119,
+    "Victoria": 3084,
+    "NewPred": 134,
     "NewConf": 124,
     "Conf": 2660
   },
   {
     "Day": 75,
     "Date": "6-Jul",
-    "Victoria": 2795,
-    "NewPred": 131,
+    "Victoria": 3228,
+    "NewPred": 144,
     "NewConf": 164,
     "Conf": 2824
   },
   {
     "Day": 76,
     "Date": "7-Jul",
-    "Victoria": 2937,
-    "NewPred": 142,
+    "Victoria": 3382,
+    "NewPred": 154,
     "NewConf": 118,
     "Conf": 2942
   },
   {
     "Day": 77,
     "Date": "8-Jul",
-    "Victoria": 3092,
-    "NewPred": 155,
+    "Victoria": 3547,
+    "NewPred": 165,
     "NewConf": 156,
     "Conf": 3098
   },
   {
     "Day": 78,
     "Date": "9-Jul",
-    "Victoria": 3260,
-    "NewPred": 168,
+    "Victoria": 3724,
+    "NewPred": 177,
     "NewConf": 299,
     "Conf": 3397
   },
   {
     "Day": 79,
     "Date": "10-Jul",
-    "Victoria": 3442,
-    "NewPred": 182,
+    "Victoria": 3913,
+    "NewPred": 189,
     "NewConf": 163,
     "Conf": 3560
   },
   {
     "Day": 80,
     "Date": "11-Jul",
-    "Victoria": 3639,
-    "NewPred": 197,
+    "Victoria": 4114,
+    "NewPred": 201,
     "NewConf": 239,
     "Conf": 3799
   },
   {
     "Day": 81,
     "Date": "12-Jul",
-    "Victoria": 3851,
-    "NewPred": 212,
+    "Victoria": 4328,
+    "NewPred": 214,
     "NewConf": 168,
     "Conf": 3967
   },
   {
     "Day": 82,
     "Date": "13-Jul",
-    "Victoria": 4080,
-    "NewPred": 229,
+    "Victoria": 4556,
+    "NewPred": 228,
     "NewConf": 257,
     "Conf": 4224
   },
   {
     "Day": 83,
     "Date": "14-Jul",
-    "Victoria": 4325,
-    "NewPred": 245,
+    "Victoria": 4797,
+    "NewPred": 241,
     "NewConf": 224,
     "Conf": 4448
   },
   {
     "Day": 84,
     "Date": "15-Jul",
-    "Victoria": 4588,
-    "NewPred": 263,
+    "Victoria": 5052,
+    "NewPred": 255,
     "NewConf": 302,
     "Conf": 4750
   },
   {
     "Day": 85,
     "Date": "16-Jul",
-    "Victoria": 4869,
-    "NewPred": 281,
+    "Victoria": 5321,
+    "NewPred": 269,
     "NewConf": 415,
     "Conf": 5165
   },
   {
     "Day": 86,
     "Date": "17-Jul",
-    "Victoria": 5168,
-    "NewPred": 299,
+    "Victoria": 5604,
+    "NewPred": 283,
     "NewConf": 188,
     "Conf": 5353
   },
   {
     "Day": 87,
     "Date": "18-Jul",
-    "Victoria": 5485,
-    "NewPred": 317,
+    "Victoria": 5901,
+    "NewPred": 297,
     "NewConf": 343,
     "Conf": 5696
   },
   {
     "Day": 88,
     "Date": "19-Jul",
-    "Victoria": 5820,
-    "NewPred": 335,
+    "Victoria": 6212,
+    "NewPred": 311,
     "NewConf": 246,
     "Conf": 5942
   },
   {
     "Day": 89,
     "Date": "20-Jul",
-    "Victoria": 6173,
-    "NewPred": 353,
+    "Victoria": 6536,
+    "NewPred": 324,
     "NewConf": 347,
     "Conf": 6289
   },
   {
     "Day": 90,
     "Date": "21-Jul",
-    "Victoria": 6544,
-    "NewPred": 371,
+    "Victoria": 6874,
+    "NewPred": 338,
     "NewConf": 450,
     "Conf": 6739
   },
   {
     "Day": 91,
     "Date": "22-Jul",
-    "Victoria": 6931,
-    "NewPred": 387,
+    "Victoria": 7225,
+    "NewPred": 351,
     "NewConf": 386,
     "Conf": 7125
   },
   {
     "Day": 92,
     "Date": "23-Jul",
-    "Victoria": 7335,
-    "NewPred": 404,
+    "Victoria": 7588,
+    "NewPred": 363,
     "NewConf": 280,
     "Conf": 7405
   },
   {
     "Day": 93,
     "Date": "24-Jul",
-    "Victoria": 7752,
-    "NewPred": 417,
+    "Victoria": 7962,
+    "NewPred": 374,
     "NewConf": 339,
     "Conf": 7744
   },
   {
     "Day": 94,
     "Date": "25-Jul",
-    "Victoria": 8183,
-    "NewPred": 431,
+    "Victoria": 8346,
+    "NewPred": 384,
     "NewConf": 437,
     "Conf": 8181
   },
   {
     "Day": 95,
     "Date": "26-Jul",
-    "Victoria": 8626,
-    "NewPred": 443,
+    "Victoria": 8740,
+    "NewPred": 394,
     "NewConf": 515,
     "Conf": 8696
   },
   {
     "Day": 96,
     "Date": "27-Jul",
-    "Victoria": 9077,
-    "NewPred": 451,
+    "Victoria": 9141,
+    "NewPred": 401,
     "NewConf": 353,
     "Conf": 9049
   },
   {
     "Day": 97,
     "Date": "28-Jul",
-    "Victoria": 9536,
-    "NewPred": 459,
+    "Victoria": 9550,
+    "NewPred": 409,
     "NewConf": 255,
     "Conf": 9304
   },
   {
     "Day": 98,
     "Date": "29-Jul",
-    "Victoria": 10001,
-    "NewPred": 465,
+    "Victoria": 9963,
+    "NewPred": 413,
     "NewConf": 694,
     "Conf": 9998
   },
   {
     "Day": 99,
     "Date": "30-Jul",
-    "Victoria": 10468,
-    "NewPred": 467,
+    "Victoria": 10380,
+    "NewPred": 417,
     "NewConf": 579,
     "Conf": 10577
   },
   {
     "Day": 100,
     "Date": "31-Jul",
-    "Victoria": 10936,
-    "NewPred": 468,
+    "Victoria": 10799,
+    "NewPred": 419,
     "NewConf": 354,
     "Conf": 10931
   },
   {
     "Day": 101,
     "Date": "1-Aug",
-    "Victoria": 11402,
-    "NewPred": 466,
+    "Victoria": 11219,
+    "NewPred": 420,
     "NewConf": 626,
     "Conf": 11557
   },
   {
     "Day": 102,
     "Date": "2-Aug",
-    "Victoria": 11863,
-    "NewPred": 461,
+    "Victoria": 11638,
+    "NewPred": 419,
     "NewConf": 380,
     "Conf": 11937
   },
   {
     "Day": 103,
     "Date": "3-Aug",
-    "Victoria": 12318,
-    "NewPred": 455,
+    "Victoria": 12054,
+    "NewPred": 416,
     "NewConf": 398,
     "Conf": 12335
   },
   {
     "Day": 104,
     "Date": "4-Aug",
-    "Victoria": 12764,
-    "NewPred": 446,
+    "Victoria": 12466,
+    "NewPred": 412,
     "NewConf": 700,
     "Conf": 13035
   },
   {
     "Day": 105,
     "Date": "5-Aug",
-    "Victoria": 13200,
-    "NewPred": 436,
+    "Victoria": 12872,
+    "NewPred": 406,
     "NewConf": 434,
     "Conf": 13469
   },
   {
     "Day": 106,
     "Date": "6-Aug",
-    "Victoria": 13623,
-    "NewPred": 423,
+    "Victoria": 13271,
+    "NewPred": 399,
     "NewConf": 398,
     "Conf": 13867
   },
   {
     "Day": 107,
     "Date": "7-Aug",
-    "Victoria": 14032,
-    "NewPred": 409,
+    "Victoria": 13662,
+    "NewPred": 391,
     "NewConf": 416,
     "Conf": 14283
   },
   {
     "Day": 108,
     "Date": "8-Aug",
-    "Victoria": 14426,
-    "NewPred": 394,
+    "Victoria": 14043,
+    "NewPred": 381,
     "NewConf": 376,
     "Conf": 14659
   },
   {
     "Day": 109,
     "Date": "9-Aug",
-    "Victoria": 14803,
-    "NewPred": 377,
+    "Victoria": 14414,
+    "NewPred": 371,
     "NewConf": 298,
     "Conf": 14957
   },
   {
     "Day": 110,
     "Date": "10-Aug",
-    "Victoria": 15164,
-    "NewPred": 361,
+    "Victoria": 14773,
+    "NewPred": 359,
     "NewConf": 294,
     "Conf": 15251
   },
   {
     "Day": 111,
     "Date": "11-Aug",
-    "Victoria": 15506,
-    "NewPred": 342,
+    "Victoria": 15120,
+    "NewPred": 347,
     "NewConf": 395,
     "Conf": 15646
   },
   {
     "Day": 112,
     "Date": "12-Aug",
-    "Victoria": 15830,
-    "NewPred": 324,
+    "Victoria": 15454,
+    "NewPred": 334,
     "NewConf": 217,
     "Conf": 15863
   },
   {
     "Day": 113,
     "Date": "13-Aug",
-    "Victoria": 16136,
-    "NewPred": 306,
+    "Victoria": 15775,
+    "NewPred": 321,
     "NewConf": 371,
     "Conf": 16234
   },
   {
     "Day": 114,
     "Date": "14-Aug",
-    "Victoria": 16424,
-    "NewPred": 288,
+    "Victoria": 16082,
+    "NewPred": 307,
     "NewConf": 283,
     "Conf": 16517
   },
   {
     "Day": 115,
     "Date": "15-Aug",
-    "Victoria": 16694,
-    "NewPred": 270,
+    "Victoria": 16375,
+    "NewPred": 293,
     "NewConf": 247,
     "Conf": 16764
   },
   {
     "Day": 116,
     "Date": "16-Aug",
-    "Victoria": 16946,
-    "NewPred": 252,
+    "Victoria": 16654,
+    "NewPred": 279,
     "NewConf": 263,
     "Conf": 17027
   },
   {
     "Day": 117,
     "Date": "17-Aug",
-    "Victoria": 17182,
-    "NewPred": 236,
+    "Victoria": 16918,
+    "NewPred": 264,
     "NewConf": 211,
     "Conf": 17238
   },
   {
     "Day": 118,
     "Date": "18-Aug",
-    "Victoria": 17400,
-    "NewPred": 218,
+    "Victoria": 17169,
+    "NewPred": 251,
     "NewConf": 208,
     "Conf": 17446
   },
   {
     "Day": 119,
     "Date": "19-Aug",
-    "Victoria": 17603,
-    "NewPred": 203,
+    "Victoria": 17406,
+    "NewPred": 237,
     "NewConf": 237,
     "Conf": 17683
   },
   {
     "Day": 120,
     "Date": "20-Aug",
-    "Victoria": 17791,
-    "NewPred": 188,
+    "Victoria": 17629,
+    "NewPred": 223,
     "NewConf": 169,
     "Conf": 17852
   },
   {
     "Day": 121,
     "Date": "21-Aug",
-    "Victoria": 17964,
-    "NewPred": 173,
+    "Victoria": 17840,
+    "NewPred": 211,
     "NewConf": 177,
     "Conf": 18029
   },
   {
     "Day": 122,
     "Date": "22-Aug",
-    "Victoria": 18124,
-    "NewPred": 160,
+    "Victoria": 18037,
+    "NewPred": 197,
     "NewConf": 202,
     "Conf": 18231
   },
   {
     "Day": 123,
     "Date": "23-Aug",
-    "Victoria": 18271,
-    "NewPred": 147,
+    "Victoria": 18222,
+    "NewPred": 185,
     "NewConf": 99,
     "Conf": 18330
   },
   {
     "Day": 124,
     "Date": "24-Aug",
-    "Victoria": 18406,
-    "NewPred": 135,
+    "Victoria": 18395,
+    "NewPred": 173,
     "NewConf": 134,
     "Conf": 18464
   },
   {
     "Day": 125,
     "Date": "25-Aug",
-    "Victoria": 18530,
-    "NewPred": 124,
+    "Victoria": 18557,
+    "NewPred": 162,
     "NewConf": 144,
     "Conf": 18608
   },
   {
     "Day": 126,
     "Date": "26-Aug",
-    "Victoria": 18644,
-    "NewPred": 114,
+    "Victoria": 18709,
+    "NewPred": 152,
     "NewConf": 106,
     "Conf": 18714
   },
   {
     "Day": 127,
     "Date": "27-Aug",
-    "Victoria": 18748,
-    "NewPred": 104,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 18849,
+    "NewPred": 140,
+    "NewConf": 108,
+    "Conf": 18822
   },
   {
     "Day": 128,
     "Date": "28-Aug",
-    "Victoria": 18843,
-    "NewPred": 95,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 18980,
+    "NewPred": 131,
+    "NewConf": 81,
+    "Conf": 18903
   },
   {
     "Day": 129,
     "Date": "29-Aug",
-    "Victoria": 18929,
-    "NewPred": 86,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19102,
+    "NewPred": 122,
+    "NewConf": 112,
+    "Conf": 19015
   },
   {
     "Day": 130,
     "Date": "30-Aug",
-    "Victoria": 19008,
-    "NewPred": 79,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19215,
+    "NewPred": 113,
+    "NewConf": 65,
+    "Conf": 19080
   },
   {
     "Day": 131,
     "Date": "31-Aug",
-    "Victoria": 19080,
-    "NewPred": 72,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19320,
+    "NewPred": 105,
+    "NewConf": 58,
+    "Conf": 19138
   },
   {
     "Day": 132,
     "Date": "1-Sep",
-    "Victoria": 19146,
-    "NewPred": 66,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19418,
+    "NewPred": 98,
+    "NewConf": 86,
+    "Conf": 19224
   },
   {
     "Day": 133,
     "Date": "2-Sep",
-    "Victoria": 19206,
-    "NewPred": 60,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19508,
+    "NewPred": 90,
+    "NewConf": 112,
+    "Conf": 19336
   },
   {
     "Day": 134,
     "Date": "3-Sep",
-    "Victoria": 19260,
-    "NewPred": 54,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19591,
+    "NewPred": 83,
+    "NewConf": 79,
+    "Conf": 19415
   },
   {
     "Day": 135,
     "Date": "4-Sep",
-    "Victoria": 19309,
-    "NewPred": 49,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19668,
+    "NewPred": 77,
+    "NewConf": 64,
+    "Conf": 19479
   },
   {
     "Day": 136,
     "Date": "5-Sep",
-    "Victoria": 19354,
-    "NewPred": 45,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19739,
+    "NewPred": 71,
+    "NewConf": 59,
+    "Conf": 19538
   },
   {
     "Day": 137,
     "Date": "6-Sep",
-    "Victoria": 19395,
-    "NewPred": 41,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19805,
+    "NewPred": 66,
+    "NewConf": 36,
+    "Conf": 19574
   },
   {
     "Day": 138,
     "Date": "7-Sep",
-    "Victoria": 19432,
-    "NewPred": 37,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19865,
+    "NewPred": 60,
+    "NewConf": 41,
+    "Conf": 19615
   },
   {
     "Day": 139,
     "Date": "8-Sep",
-    "Victoria": 19465,
-    "NewPred": 33,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19921,
+    "NewPred": 56,
+    "NewConf": 73,
+    "Conf": 19688
   },
   {
     "Day": 140,
     "Date": "9-Sep",
-    "Victoria": 19495,
-    "NewPred": 30,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 19973,
+    "NewPred": 52,
+    "NewConf": 51,
+    "Conf": 19739
   },
   {
     "Day": 141,
     "Date": "10-Sep",
-    "Victoria": 19523,
-    "NewPred": 28,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 20020,
+    "NewPred": 47,
+    "NewConf": 28,
+    "Conf": 19767
   },
   {
     "Day": 142,
     "Date": "11-Sep",
-    "Victoria": 19548,
-    "NewPred": 25,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 20064,
+    "NewPred": 44,
+    "NewConf": 33,
+    "Conf": 19800
   },
   {
     "Day": 143,
     "Date": "12-Sep",
-    "Victoria": 19570,
-    "NewPred": 22,
-    "NewConf": null,
-    "Conf": null
+    "Victoria": 20104,
+    "NewPred": 40,
+    "NewConf": 35,
+    "Conf": 19835
   },
   {
     "Day": 144,
     "Date": "13-Sep",
-    "Victoria": 19591,
-    "NewPred": 21,
+    "Victoria": 20141,
+    "NewPred": 37,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 145,
     "Date": "14-Sep",
-    "Victoria": 19609,
-    "NewPred": 18,
+    "Victoria": 20175,
+    "NewPred": 34,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 146,
     "Date": "15-Sep",
-    "Victoria": 19626,
-    "NewPred": 17,
+    "Victoria": 20206,
+    "NewPred": 31,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 147,
     "Date": "16-Sep",
-    "Victoria": 19641,
-    "NewPred": 15,
+    "Victoria": 20235,
+    "NewPred": 29,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 148,
     "Date": "17-Sep",
-    "Victoria": 19655,
-    "NewPred": 14,
+    "Victoria": 20261,
+    "NewPred": 26,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 149,
     "Date": "18-Sep",
-    "Victoria": 19667,
-    "NewPred": 12,
+    "Victoria": 20286,
+    "NewPred": 25,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 150,
     "Date": "19-Sep",
-    "Victoria": 19679,
-    "NewPred": 12,
+    "Victoria": 20308,
+    "NewPred": 22,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 151,
     "Date": "20-Sep",
-    "Victoria": 19689,
-    "NewPred": 10,
+    "Victoria": 20328,
+    "NewPred": 20,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 152,
     "Date": "21-Sep",
-    "Victoria": 19698,
-    "NewPred": 9,
+    "Victoria": 20347,
+    "NewPred": 19,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 153,
     "Date": "22-Sep",
-    "Victoria": 19706,
-    "NewPred": 8,
+    "Victoria": 20364,
+    "NewPred": 17,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 154,
     "Date": "23-Sep",
-    "Victoria": 19714,
-    "NewPred": 8,
+    "Victoria": 20380,
+    "NewPred": 16,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 155,
     "Date": "24-Sep",
-    "Victoria": 19721,
-    "NewPred": 7,
+    "Victoria": 20395,
+    "NewPred": 15,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 156,
     "Date": "25-Sep",
-    "Victoria": 19727,
-    "NewPred": 6,
+    "Victoria": 20408,
+    "NewPred": 13,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 157,
     "Date": "26-Sep",
-    "Victoria": 19732,
-    "NewPred": 5,
+    "Victoria": 20420,
+    "NewPred": 12,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 158,
     "Date": "27-Sep",
-    "Victoria": 19737,
-    "NewPred": 5,
+    "Victoria": 20432,
+    "NewPred": 12,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 159,
     "Date": "28-Sep",
-    "Victoria": 19742,
-    "NewPred": 5,
+    "Victoria": 20442,
+    "NewPred": 10,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 160,
     "Date": "29-Sep",
-    "Victoria": 19746,
-    "NewPred": 4,
+    "Victoria": 20451,
+    "NewPred": 9,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 161,
     "Date": "30-Sep",
-    "Victoria": 19750,
-    "NewPred": 4,
+    "Victoria": 20460,
+    "NewPred": 9,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 162,
     "Date": "1-Oct",
-    "Victoria": 19753,
-    "NewPred": 3,
+    "Victoria": 20468,
+    "NewPred": 8,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 163,
     "Date": "2-Oct",
-    "Victoria": 19756,
-    "NewPred": 3,
+    "Victoria": 20475,
+    "NewPred": 7,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 164,
     "Date": "3-Oct",
-    "Victoria": 19759,
-    "NewPred": 3,
+    "Victoria": 20482,
+    "NewPred": 7,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 165,
     "Date": "4-Oct",
-    "Victoria": 19761,
-    "NewPred": 2,
+    "Victoria": 20488,
+    "NewPred": 6,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 166,
     "Date": "5-Oct",
-    "Victoria": 19764,
-    "NewPred": 3,
+    "Victoria": 20494,
+    "NewPred": 6,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 167,
     "Date": "6-Oct",
-    "Victoria": 19766,
-    "NewPred": 2,
+    "Victoria": 20499,
+    "NewPred": 5,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 168,
     "Date": "7-Oct",
-    "Victoria": 19767,
-    "NewPred": 1,
+    "Victoria": 20504,
+    "NewPred": 5,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 169,
     "Date": "8-Oct",
-    "Victoria": 19769,
-    "NewPred": 2,
+    "Victoria": 20508,
+    "NewPred": 4,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 170,
     "Date": "9-Oct",
-    "Victoria": 19771,
-    "NewPred": 2,
+    "Victoria": 20512,
+    "NewPred": 4,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 171,
     "Date": "10-Oct",
-    "Victoria": 19772,
-    "NewPred": 1,
+    "Victoria": 20516,
+    "NewPred": 4,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 172,
     "Date": "11-Oct",
-    "Victoria": 19773,
-    "NewPred": 1,
+    "Victoria": 20519,
+    "NewPred": 3,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 173,
     "Date": "12-Oct",
-    "Victoria": 19774,
-    "NewPred": 1,
+    "Victoria": 20522,
+    "NewPred": 3,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 174,
     "Date": "13-Oct",
-    "Victoria": 19775,
-    "NewPred": 1,
+    "Victoria": 20525,
+    "NewPred": 3,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 175,
     "Date": "14-Oct",
-    "Victoria": 19776,
-    "NewPred": 1,
+    "Victoria": 20527,
+    "NewPred": 2,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 176,
     "Date": "15-Oct",
-    "Victoria": 19777,
-    "NewPred": 1,
+    "Victoria": 20530,
+    "NewPred": 3,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 177,
     "Date": "16-Oct",
-    "Victoria": 19778,
-    "NewPred": 1,
+    "Victoria": 20532,
+    "NewPred": 2,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 178,
     "Date": "17-Oct",
-    "Victoria": 19778,
-    "NewPred": 0,
+    "Victoria": 20534,
+    "NewPred": 2,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 179,
     "Date": "18-Oct",
-    "Victoria": 19779,
-    "NewPred": 1,
+    "Victoria": 20536,
+    "NewPred": 2,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 180,
     "Date": "19-Oct",
-    "Victoria": 19780,
+    "Victoria": 20537,
     "NewPred": 1,
     "NewConf": null,
     "Conf": null
@@ -1450,39 +1450,39 @@
   {
     "Day": 181,
     "Date": "20-Oct",
-    "Victoria": 19780,
-    "NewPred": 0,
+    "Victoria": 20539,
+    "NewPred": 2,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 182,
     "Date": "21-Oct",
-    "Victoria": 19780,
-    "NewPred": 0,
+    "Victoria": 20540,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 183,
     "Date": "22-Oct",
-    "Victoria": 19781,
-    "NewPred": 1,
+    "Victoria": 20542,
+    "NewPred": 2,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 184,
     "Date": "23-Oct",
-    "Victoria": 19781,
-    "NewPred": 0,
+    "Victoria": 20543,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 185,
     "Date": "24-Oct",
-    "Victoria": 19782,
+    "Victoria": 20544,
     "NewPred": 1,
     "NewConf": null,
     "Conf": null
@@ -1490,55 +1490,55 @@
   {
     "Day": 186,
     "Date": "25-Oct",
-    "Victoria": 19782,
-    "NewPred": 0,
+    "Victoria": 20545,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 187,
     "Date": "26-Oct",
-    "Victoria": 19782,
-    "NewPred": 0,
+    "Victoria": 20546,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 188,
     "Date": "27-Oct",
-    "Victoria": 19782,
-    "NewPred": 0,
+    "Victoria": 20547,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 189,
     "Date": "28-Oct",
-    "Victoria": 19783,
-    "NewPred": 1,
+    "Victoria": 20547,
+    "NewPred": 0,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 190,
     "Date": "29-Oct",
-    "Victoria": 19783,
-    "NewPred": 0,
+    "Victoria": 20548,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 191,
     "Date": "30-Oct",
-    "Victoria": 19783,
-    "NewPred": 0,
+    "Victoria": 20549,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 192,
     "Date": "31-Oct",
-    "Victoria": 19783,
+    "Victoria": 20549,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1546,15 +1546,15 @@
   {
     "Day": 193,
     "Date": "1-Nov",
-    "Victoria": 19783,
-    "NewPred": 0,
+    "Victoria": 20550,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 194,
     "Date": "2-Nov",
-    "Victoria": 19783,
+    "Victoria": 20550,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1562,7 +1562,7 @@
   {
     "Day": 195,
     "Date": "3-Nov",
-    "Victoria": 19784,
+    "Victoria": 20551,
     "NewPred": 1,
     "NewConf": null,
     "Conf": null
@@ -1570,7 +1570,7 @@
   {
     "Day": 196,
     "Date": "4-Nov",
-    "Victoria": 19784,
+    "Victoria": 20551,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1578,7 +1578,7 @@
   {
     "Day": 197,
     "Date": "5-Nov",
-    "Victoria": 19784,
+    "Victoria": 20551,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1586,15 +1586,15 @@
   {
     "Day": 198,
     "Date": "6-Nov",
-    "Victoria": 19784,
-    "NewPred": 0,
+    "Victoria": 20552,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 199,
     "Date": "7-Nov",
-    "Victoria": 19784,
+    "Victoria": 20552,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1602,7 +1602,7 @@
   {
     "Day": 200,
     "Date": "8-Nov",
-    "Victoria": 19784,
+    "Victoria": 20552,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1610,15 +1610,15 @@
   {
     "Day": 201,
     "Date": "9-Nov",
-    "Victoria": 19784,
-    "NewPred": 0,
+    "Victoria": 20553,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 202,
     "Date": "10-Nov",
-    "Victoria": 19784,
+    "Victoria": 20553,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1626,7 +1626,7 @@
   {
     "Day": 203,
     "Date": "11-Nov",
-    "Victoria": 19784,
+    "Victoria": 20553,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1634,7 +1634,7 @@
   {
     "Day": 204,
     "Date": "12-Nov",
-    "Victoria": 19784,
+    "Victoria": 20553,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1642,15 +1642,15 @@
   {
     "Day": 205,
     "Date": "13-Nov",
-    "Victoria": 19784,
-    "NewPred": 0,
+    "Victoria": 20554,
+    "NewPred": 1,
     "NewConf": null,
     "Conf": null
   },
   {
     "Day": 206,
     "Date": "14-Nov",
-    "Victoria": 19784,
+    "Victoria": 20554,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1658,7 +1658,7 @@
   {
     "Day": 207,
     "Date": "15-Nov",
-    "Victoria": 19784,
+    "Victoria": 20554,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1666,7 +1666,7 @@
   {
     "Day": 208,
     "Date": "16-Nov",
-    "Victoria": 19784,
+    "Victoria": 20554,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
@@ -1674,7 +1674,7 @@
   {
     "Day": 209,
     "Date": "17-Nov",
-    "Victoria": 19784,
+    "Victoria": 20554,
     "NewPred": 0,
     "NewConf": null,
     "Conf": null
