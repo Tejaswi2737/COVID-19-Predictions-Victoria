@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b96f963.chunk.css",
+    "main.js": "/static/js/main.832a6e21.chunk.js",
+    "main.js.map": "/static/js/main.832a6e21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.346b08b4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.346b08b4.js.map",
+    "static/js/2.039124b0.chunk.js": "/static/js/2.039124b0.chunk.js",
+    "static/js/2.039124b0.chunk.js.map": "/static/js/2.039124b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0e8f9b7a6e1aebf3ca13dc96995d0fc8.js": "/precache-manifest.0e8f9b7a6e1aebf3ca13dc96995d0fc8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2b96f963.chunk.css.map": "/static/css/main.2b96f963.chunk.css.map",
+    "static/js/2.039124b0.chunk.js.LICENSE.txt": "/static/js/2.039124b0.chunk.js.LICENSE.txt",
+    "static/media/Data.gif": "/static/media/Data.8fe667c8.gif",
+    "static/media/Math.PNG": "/static/media/Math.72aef60a.PNG",
+    "static/media/MathGif.gif": "/static/media/MathGif.45a81a2a.gif",
+    "static/media/Stay.jpeg": "/static/media/Stay.d9aac5c7.jpeg",
+    "static/media/VicWave.gif": "/static/media/VicWave.b456d4be.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.346b08b4.js",
+    "static/js/2.039124b0.chunk.js",
+    "static/css/main.2b96f963.chunk.css",
+    "static/js/main.832a6e21.chunk.js"
+  ]
+}
