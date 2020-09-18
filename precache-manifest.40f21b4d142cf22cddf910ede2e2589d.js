@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b2774fa63051a8269633db5520942b3",
+    "revision": "8f05cc18aae4a763c4e1aac20761a8bb",
     "url": "/COVID-19-Predictions-Victoria/index.html"
   },
   {
-    "revision": "784a8fb41856377f2b10",
+    "revision": "cc869fc861f5b50a2b96",
     "url": "/COVID-19-Predictions-Victoria/static/css/main.2b96f963.chunk.css"
   },
   {
-    "revision": "194b6f60aba4218cf5f0",
-    "url": "/COVID-19-Predictions-Victoria/static/js/2.2539d83c.chunk.js"
+    "revision": "bed957166e3f22c89393",
+    "url": "/COVID-19-Predictions-Victoria/static/js/2.039124b0.chunk.js"
   },
   {
     "revision": "b815bed3bedb5a8af7470bb094451139",
-    "url": "/COVID-19-Predictions-Victoria/static/js/2.2539d83c.chunk.js.LICENSE.txt"
+    "url": "/COVID-19-Predictions-Victoria/static/js/2.039124b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "784a8fb41856377f2b10",
-    "url": "/COVID-19-Predictions-Victoria/static/js/main.6237c00e.chunk.js"
+    "revision": "cc869fc861f5b50a2b96",
+    "url": "/COVID-19-Predictions-Victoria/static/js/main.f1112d9a.chunk.js"
   },
   {
     "revision": "b0e5cf7f9fa72e2813d4",
